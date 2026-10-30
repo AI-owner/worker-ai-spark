@@ -1,10 +1,7 @@
 # 贡献记录（contribution-records）
 
-<<<<<<< HEAD
 > **English version:** [Read in English](contribution-records.en.md)
 
-=======
->>>>>>> e2bed60aef497aa119840d8e83e30fed29069842
 > 本文件记录具体贡献及每次确定的贡献值。累计贡献值统一公示在 [贡献榜单](../CONTRIBUTORS.md#四贡献榜单)，详细记录随真实贡献发生而补充。
 
 ---

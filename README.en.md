@@ -3,11 +3,8 @@
 > **📣 Volunteers wanted: help build the Worker AI Spark Project over the long term**<br>
 > Take part at every stage: connect with workers, understand AI's impact and their hopes for it, spread the word, and help with future work.<br>
 > Email [worker.ai.spark@gmail.com](mailto:worker.ai.spark@gmail.com) with a brief introduction and the time you can offer each month.<br>
-<<<<<<< HEAD
 > [Volunteer details](docs/volunteers.en.md) · [Workers' mailbox](#workers-mailbox) · [Contribution honor roll](CONTRIBUTORS.en.md#4-contribution-honor-roll)
-=======
 > [Volunteer details (in Chinese)](docs/volunteers.md) · [Workers' mailbox](#workers-mailbox) · [Contribution honor roll](CONTRIBUTORS.md#四贡献榜单)
->>>>>>> e2bed60aef497aa119840d8e83e30fed29069842
 
 > **Chinese version:** [阅读中文版](README.md)
 
@@ -141,11 +138,9 @@ Send your letter to [worker.ai.spark@gmail.com](mailto:worker.ai.spark@gmail.com
 
 ## Contribution Honor Roll
 
-<<<<<<< HEAD
 When volunteers do work for the project or make reasonable suggestions that are adopted, the project will record their contributions and assign a “contribution value.” Contributors choose whether to appear under their real name, a pseudonym, or anonymously. See the [contribution honor roll](CONTRIBUTORS.en.md#4-contribution-honor-roll).
-=======
 When volunteers do work for the project or make reasonable suggestions that are adopted, the project will record their contributions and assign a “contribution value.” Contributors choose whether to appear under their real name, a pseudonym, or anonymously. See the [contribution honor roll](CONTRIBUTORS.md#四贡献榜单) (in Chinese).
->>>>>>> e2bed60aef497aa119840d8e83e30fed29069842
+
 
 **Contribution values are solely for honorary recognition within the project: a record of “working for the working class.” They carry no material benefits.**
 
@@ -159,11 +154,9 @@ This project particularly hopes that people who are usually only analyzed, evalu
 
 You can:
 
-<<<<<<< HEAD
 - **Volunteer:** Help build the project over the long term and across its stages. Work may include connecting with workers, understanding AI's impact and workers' hopes for it, spreading the word about the project, and other tasks as needs arise. See the [sign-up details](docs/volunteers.en.md);
-=======
 - **Volunteer:** Help build the project over the long term and across its stages. Work may include connecting with workers, understanding AI's impact and workers' hopes for it, spreading the word about the project, and other tasks as needs arise. See the [sign-up details](docs/volunteers.md) (in Chinese);
->>>>>>> e2bed60aef497aa119840d8e83e30fed29069842
+
 - **Write to the workers' mailbox:** Share your experiences, thoughts, and hopes through the [workers' mailbox](#workers-mailbox);
 - **Submit labor scenarios:** You may provide real cases that you personally experienced, directly learned about, or have reasonable factual grounds for. You may also submit scenarios drawn from public sources, composite scenarios, or hypothetical scenarios. You may choose to use your real name, a pseudonym, be publicly anonymous (with no real name disclosed), or make the submission available only for internal handling; authorization to disclose identity and authorization to disclose the case itself are handled separately. GitHub account names are always visible, so material that should not be public may first be sent to the official mailbox. The sender's address remains visible to maintainers, however, so email does not make the submitter anonymous to the project;
 - **Review evaluation questions:** Assess whether they reflect reality and whether important issues have been omitted;
@@ -186,7 +179,6 @@ See [ROADMAP.en.md](ROADMAP.en.md) for the project's staged plan. The repository
 
 ## Governance and Contributions
 
-<<<<<<< HEAD
 - Governance model and role descriptions: [GOVERNANCE.en.md](GOVERNANCE.en.md)
 - Contribution guide, including ways to participate without programming: [CONTRIBUTING.en.md](CONTRIBUTING.en.md)
 - Volunteer sign-up: [work and application details](docs/volunteers.en.md)
@@ -194,15 +186,6 @@ See [ROADMAP.en.md](ROADMAP.en.md) for the project's staged plan. The repository
 - Code of conduct: [CODE_OF_CONDUCT.en.md](CODE_OF_CONDUCT.en.md)
 - Terminology: [docs/terminology.en.md](docs/terminology.en.md)
 - Frequently asked questions: [docs/faq.en.md](docs/faq.en.md)
-=======
-- Governance model and role descriptions: [GOVERNANCE.md](GOVERNANCE.md)
-- Contribution guide, including ways to participate without programming: [CONTRIBUTING.md](CONTRIBUTING.md)
-- Volunteer sign-up: [work and application details](docs/volunteers.md) (in Chinese)
-- Contribution honor roll and contribution values: [CONTRIBUTORS.md](CONTRIBUTORS.md) (in Chinese)
-- Code of conduct: [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
-- Terminology: [docs/terminology.md](docs/terminology.md)
-- Frequently asked questions: [docs/faq.md](docs/faq.md)
->>>>>>> e2bed60aef497aa119840d8e83e30fed29069842
 - Public discussion forum: [GitHub Discussions](https://github.com/EastForce/worker-ai-spark/discussions) (enabled; suitable only for content that may be public)
 - Official submission mailbox: [worker.ai.spark@gmail.com](mailto:worker.ai.spark@gmail.com) (email is neither anonymous nor end-to-end encrypted)
 

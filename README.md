@@ -4,14 +4,9 @@
 > 欢迎参与各阶段建设，包括联系劳动者、了解 AI 的影响与他们的期望、宣传项目及后续工作。<br>
 > 发邮件至 [worker.ai.spark@gmail.com](mailto:worker.ai.spark@gmail.com)，简单介绍自己，并说明每月能投入多少时间。<br>
 > [查看报名与工作说明](docs/volunteers.md) · [劳动者信箱](#劳动者信箱) · [贡献榜单](CONTRIBUTORS.md#四贡献榜单)
-
-<<<<<<< HEAD
 > **English version:** [Read in English](README.en.md)
-
 **文档导航：** [中英文对照目录与维护说明](docs/languages.md)
-=======
 > **English version:** [Read this page in English](README.en.md)
->>>>>>> e2bed60aef497aa119840d8e83e30fed29069842
 
 > 火种计划是一个以劳动者立场的理论研究为基础，尝试为未来人工智能保存劳动者立场与劳动知识，并发展公开评测和共同治理机制的开源项目。
 
