@@ -1,10 +1,7 @@
 # 贡献榜单与贡献者记录（CONTRIBUTORS）
 
-<<<<<<< HEAD
 > **English version:** [Read in English](CONTRIBUTORS.en.md)
 
-=======
->>>>>>> e2bed60aef497aa119840d8e83e30fed29069842
 > 本文档公示贡献值，并保存真实贡献记录。公示采用实名、化名或匿名，由贡献者自己选择；不虚构贡献者或贡献值。
 
 ---
