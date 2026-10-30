@@ -3,10 +3,10 @@
 > **📣 Volunteers wanted: help build the Worker AI Spark Project over the long term**<br>
 > Take part at every stage: connect with workers, understand AI's impact and their hopes for it, spread the word, and help with future work.<br>
 > Email [worker.ai.spark@gmail.com](mailto:worker.ai.spark@gmail.com) with a brief introduction and the time you can offer each month.<br>
-
-> [Volunteer details (in Chinese)](docs/volunteers.md) · [Workers' mailbox](#workers-mailbox) · [Contribution honor roll](CONTRIBUTORS.md#四贡献榜单)
+> [Volunteer details](docs/volunteers.en.md) · [Workers' mailbox](#workers-mailbox) · [Contribution honor roll](CONTRIBUTORS.en.md#4-contribution-honor-roll)
 
 > **Chinese version:** [阅读中文版](README.md)
+
 **Documentation:** [Chinese–English index and maintenance guide](docs/languages.en.md)
 
 > The Worker AI Spark Project is an open-source initiative grounded in theoretical research from workers' standpoints. It seeks to preserve workers' standpoints and knowledge of labor while developing open evaluation methods and mechanisms for shared governance in the development of future artificial intelligence.
@@ -138,11 +138,6 @@ Send your letter to [worker.ai.spark@gmail.com](mailto:worker.ai.spark@gmail.com
 ## Contribution Honor Roll
 
 When volunteers do work for the project or make reasonable suggestions that are adopted, the project will record their contributions and assign a “contribution value.” Contributors choose whether to appear under their real name, a pseudonym, or anonymously. See the [contribution honor roll](CONTRIBUTORS.en.md#4-contribution-honor-roll).
-<<<<<<< HEAD
-=======
-When volunteers do work for the project or make reasonable suggestions that are adopted, the project will record their contributions and assign a “contribution value.” Contributors choose whether to appear under their real name, a pseudonym, or anonymously. See the [contribution honor roll](CONTRIBUTORS.md#四贡献榜单) (in Chinese).
-
->>>>>>> 6ff8115617f542222808c9dc3d669c0a0be037d1
 
 **Contribution values are solely for honorary recognition within the project: a record of “working for the working class.” They carry no material benefits.**
 
@@ -157,11 +152,6 @@ This project particularly hopes that people who are usually only analyzed, evalu
 You can:
 
 - **Volunteer:** Help build the project over the long term and across its stages. Work may include connecting with workers, understanding AI's impact and workers' hopes for it, spreading the word about the project, and other tasks as needs arise. See the [sign-up details](docs/volunteers.en.md);
-<<<<<<< HEAD
-=======
-- **Volunteer:** Help build the project over the long term and across its stages. Work may include connecting with workers, understanding AI's impact and workers' hopes for it, spreading the word about the project, and other tasks as needs arise. See the [sign-up details](docs/volunteers.md) (in Chinese);
-
->>>>>>> 6ff8115617f542222808c9dc3d669c0a0be037d1
 - **Write to the workers' mailbox:** Share your experiences, thoughts, and hopes through the [workers' mailbox](#workers-mailbox);
 - **Submit labor scenarios:** You may provide real cases that you personally experienced, directly learned about, or have reasonable factual grounds for. You may also submit scenarios drawn from public sources, composite scenarios, or hypothetical scenarios. You may choose to use your real name, a pseudonym, be publicly anonymous (with no real name disclosed), or make the submission available only for internal handling; authorization to disclose identity and authorization to disclose the case itself are handled separately. GitHub account names are always visible, so material that should not be public may first be sent to the official mailbox. The sender's address remains visible to maintainers, however, so email does not make the submitter anonymous to the project;
 - **Review evaluation questions:** Assess whether they reflect reality and whether important issues have been omitted;

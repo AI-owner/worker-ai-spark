@@ -47,7 +47,7 @@
     {
       "source": "CHANGELOG.md",
       "english": "CHANGELOG.en.md",
-      "source_sha256": "f9274f6076b20647f419d635cf7e087a1c4315cea0a2caaa4e627974071e4172",
+      "source_sha256": "87c9d9423a866f442003d896672f4a50ee155f12c931b9bd98866433ad4d9a83",
       "english_sha256": "33f32b728678bbc707c9f99f348cc7eafc2dac35a3e66b39bfa2fc2b41559dd9"
     },
     {
@@ -71,7 +71,7 @@
     {
       "source": "CONTRIBUTORS.md",
       "english": "CONTRIBUTORS.en.md",
-      "source_sha256": "bdf9d93f12a7929b73d5b2f05c619687ee5ca799038dd58fc747963ebc418c41",
+      "source_sha256": "0712079c2ffea7159d9e1bd26ffe78dee06721334c943018866386a392b32cb3",
       "english_sha256": "f607ade497f0671bbfbe7aafd0271d5c742ba2540733425b2b0acfbbf73504d3"
     },
     {
@@ -119,7 +119,7 @@
     {
       "source": "README.md",
       "english": "README.en.md",
-      "source_sha256": "edc0ca130a119b9897787e46dafb8e8821e9b95f744713344485fb571cf5e590",
+      "source_sha256": "7a5d2a7e88c98e9d9ae317fa764bfec92511936da9a9115add9508bc2af29652",
       "english_sha256": "57f5e98397a466e0f424ec39fb4150a8808512d23f36c2cad4a44666dd6e5e01"
     },
     {
