@@ -3,14 +3,10 @@
 > **📣 Volunteers wanted: help build the Worker AI Spark Project over the long term**<br>
 > Take part at every stage: connect with workers, understand AI's impact and their hopes for it, spread the word, and help with future work.<br>
 > Email [worker.ai.spark@gmail.com](mailto:worker.ai.spark@gmail.com) with a brief introduction and the time you can offer each month.<br>
-> [Volunteer details](docs/volunteers.en.md) · [Workers' mailbox](#workers-mailbox) · [Contribution honor roll](CONTRIBUTORS.en.md#4-contribution-honor-roll)
-<<<<<<< HEAD
-=======
+
 > [Volunteer details (in Chinese)](docs/volunteers.md) · [Workers' mailbox](#workers-mailbox) · [Contribution honor roll](CONTRIBUTORS.md#四贡献榜单)
->>>>>>> 6ff8115617f542222808c9dc3d669c0a0be037d1
 
 > **Chinese version:** [阅读中文版](README.md)
-
 **Documentation:** [Chinese–English index and maintenance guide](docs/languages.en.md)
 
 > The Worker AI Spark Project is an open-source initiative grounded in theoretical research from workers' standpoints. It seeks to preserve workers' standpoints and knowledge of labor while developing open evaluation methods and mechanisms for shared governance in the development of future artificial intelligence.
