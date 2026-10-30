@@ -1,7 +1,9 @@
 # 评审治理、角色与回避规则
 
-> 状态：公开讨论稿  
-> 版本：v0.2-draft  
+> **English version:** [Read in English](GOVERNANCE_AND_ROLES.en.md)
+
+> 状态：公开讨论稿<br>
+> 版本：v0.2-draft<br>
 > 本文件补充 [GOVERNANCE.md](../../GOVERNANCE.md)，不虚构当前已经存在的委员会。
 
 ---

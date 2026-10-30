@@ -1,5 +1,7 @@
 # Making the “Human-Centered” Principle in AI Substantive
 
+> **Chinese version:** [阅读中文版](paper.zh-CN.md)
+
 ## The Goal–Consequence Mismatch in Labor Relations from a Workers’ Standpoint
 
 **Author: Project Initiator**

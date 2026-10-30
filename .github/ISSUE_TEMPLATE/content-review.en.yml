@@ -1,0 +1,99 @@
+# Chinese version: content-review.yml
+name: 'English: Content Review'
+description: Review the manifesto, basic principles, governance documents, FAQ, terminology, and other documentation.
+title: "[Review] "
+labels: ["documentation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        [使用中文填写](https://github.com/EastForce/worker-ai-spark/issues/new?template=content-review.yml)
+
+        Please help us review the documentation. This project welcomes disagreement and criticism.
+        Substantive changes to core files (MANIFESTO / PRINCIPLES / GOVERNANCE / scoring-rubric)
+        will undergo public discussion and final review by the initiator or future maintainers.
+        **This is a public Issue. Do not submit contact details, identity verification materials, real employer names, internal documents, or information that identifies third parties.**
+        Your GitHub account remains visible; this is not a truly anonymous channel.
+  - type: input
+    id: file
+    attributes:
+      label: File under review
+      description: For example, MANIFESTO.md, PRINCIPLES.md, or docs/faq.md
+      placeholder: PRINCIPLES.md
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Location in the original text
+      description: Section, paragraph, or approximate line number
+      placeholder: Part Two, Article Seven
+    validations:
+      required: false
+  - type: input
+    id: target-version
+    attributes:
+      label: Version or commit under review
+      description: Please provide this where possible for comments on core files, to avoid mixing different versions.
+      placeholder: v0.1.0 / commit
+    validations:
+      required: false
+  - type: dropdown
+    id: issue-type
+    attributes:
+      label: Issue type
+      options:
+        - Factual error
+        - Logic or wording problem
+        - Deviation in position
+        - Important perspective omitted
+        - Contradiction with another file
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested change
+      description: How would you like the text changed?
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Reason for the change
+      description: What supports it (facts, public sources, personal experience, etc.)?
+    validations:
+      required: true
+  - type: dropdown
+    id: stance-change
+    attributes:
+      label: Does this involve a major change in position?
+      options:
+        - "No"
+        - "Yes; explain in the reasons"
+    validations:
+      required: true
+  - type: dropdown
+    id: identity
+    attributes:
+      label: Attribution preference
+      description: This controls only attribution in the body; your GitHub account remains public.
+      options:
+        - No additional name in the body (GitHub account remains public)
+        - Use my GitHub username
+        - Use a pseudonym
+        - Use my real name
+    validations:
+      required: false
+  - type: checkboxes
+    id: privacy-check
+    attributes:
+      label: Public submission confirmation
+      options:
+        - label: I have not submitted contact details, identity verification materials, internal documents, or information that identifies third parties
+          required: true
+        - label: I have not added attachments, screenshots, photographs, recordings, or original files
+          required: true
+        - label: I have the right to submit this content and agree to its publication under the repository content license, CC BY-SA 4.0; otherwise, I am submitting only an indication of a problem and do not request incorporation of my original text
+          required: true

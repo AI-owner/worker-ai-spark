@@ -1,15 +1,22 @@
 # Worker AI Spark Project — Open-Source Workers' AI
 
+> **📣 Volunteers wanted: help build the Worker AI Spark Project over the long term**<br>
+> Take part at every stage: connect with workers, understand AI's impact and their hopes for it, spread the word, and help with future work.<br>
+> Email [worker.ai.spark@gmail.com](mailto:worker.ai.spark@gmail.com) with a brief introduction and the time you can offer each month.<br>
+> [Volunteer details](docs/volunteers.en.md) · [Workers' mailbox](#workers-mailbox) · [Contribution honor roll](CONTRIBUTORS.en.md#4-contribution-honor-roll)
+
 > **Chinese version:** [阅读中文版](README.md)
+
+**Documentation:** [Chinese–English index and maintenance guide](docs/languages.en.md)
 
 > The Worker AI Spark Project is an open-source initiative grounded in theoretical research from workers' standpoints. It seeks to preserve workers' standpoints and knowledge of labor while developing open evaluation methods and mechanisms for shared governance in the development of future artificial intelligence.
 
 [Chinese project name] 火种计划——开源劳动者AI
 [English project name] Worker AI Spark Project
 [Repository] `worker-ai-spark`
-[Current stage] Repository content marked v0.1.0; general feedback is open, while formal review remains in preparation; two foundational-theory public discussion drafts included; literature research and theory formulation continue. See [current progress](docs/project-status.md) (in Chinese) for version and participation status.
+[Current stage] Repository content marked v0.1.0; general feedback is open, while formal review remains in preparation; two foundational-theory public discussion drafts included; literature research and theory formulation continue. See [current progress](docs/project-status.en.md) for version and participation status.
 
-**New here?** Start with [three questions about Workers' AI](docs/start-here.md) (in Chinese): read a scenario and an excerpt from a recorded model response, then leave one comment on a question. No programming or prior reading of all the theory documents is required.
+**New here?** Start with [three questions about Workers' AI](docs/start-here.en.md): read a scenario and an excerpt from a recorded model response, then leave one comment on a question. No programming or prior reading of all the theory documents is required.
 
 ---
 
@@ -31,11 +38,11 @@ This project seeks to preserve a direction for AI development that differs from 
 
 Please note the project's current boundaries:
 
-- This is the **initial repository content version (marked v0.1.0 in the files)**, and the project remains at a foundational stage; see [current progress](docs/project-status.md#内容版本与平台发布) for the verified Git tag and GitHub Release records;
+- This is the **initial repository content version (marked v0.1.0 in the files)**, and the project remains at a foundational stage; see [current progress](docs/project-status.en.md#content-versions-and-platform-releases) for the verified Git tag and GitHub Release records;
 - **No dedicated model has been trained**;
 - **It has not been established that AI has developed consciousness**;
 - The project's current outputs include **principles, evaluation questions, a governance framework, and two foundational-theory public discussion drafts**; the theory-building program as a whole remains at the stage of literature research and theory formulation;
-- The first [24-question DeepSeek pilot review package](benchmarks/results/wai-20260825-deepseek-pilot/) is available; it contains AI preliminary assessments but no two-scorer independent human review, so it is not a formal ranking or approval;
+- The first [24-question DeepSeek pilot review package](benchmarks/results/wai-20260825-deepseek-pilot/README.en.md) is available; it contains AI preliminary assessments but no two-scorer independent human review, so it is not a formal ranking or approval;
 - An open-source prototype capable of running locally will be explored only if conditions permit in the future.
 
 We do not claim to possess an AI with genuine working-class consciousness, nor do we aim to train the most powerful model in the short term. Our first aim is to preserve a spark.
@@ -65,7 +72,7 @@ The repository now includes the first two complete bilingual Markdown public dis
 
 - [Foundational theory: research and evolution](theory/README.en.md)
 - [Core papers: index and publication conventions](theory/papers/README.en.md)
-- [Research and literature index](research/README.md) (currently in Chinese)
+- [Research and literature index](research/README.en.md)
 
 ### Open Theoretical Contributions
 
@@ -73,13 +80,13 @@ The project does not charge submission, review, or inclusion fees for theoretica
 
 The project seeks better-grounded truth: theoretical proposals that can withstand public criticism, genuinely help build a more equal world, and make the design, use, and governance of AI more equal. Contributions are assessed by their evidence, logic, falsifiability, and explanatory power regarding workers' actual circumstances—not by the author's identity, institutional prestige, academic title, or whether a human or an AI system first proposed the contribution.
 
-Contributions that are accepted or provide substantial help to the project's theoretical development will receive special acknowledgment in the repository's [contributor record](CONTRIBUTORS.md) and on the project website, subject to the contributor's preferences about public credit. Contribution and responsibility records will primarily recognize the human contributors who submit, verify, explain, and take responsibility for the work; whether to additionally identify an AI system is left to the contributor. This is not a journal: inclusion is not journal publication, formal peer review, or academic certification, and it does not guarantee acceptance, payment, or any other return.
+Contributions that are accepted or provide substantial help to the project's theoretical development will receive special acknowledgment in the repository's [contributor record](CONTRIBUTORS.en.md) and on the project website, subject to the contributor's preferences about public credit. Contribution and responsibility records will primarily recognize the human contributors who submit, verify, explain, and take responsibility for the work; whether to additionally identify an AI system is left to the contributor. This is not a journal: inclusion is not journal publication, formal peer review, or academic certification, and it does not guarantee acceptance, payment, or any other return.
 
 Theoretical contributions may be submitted through three channels:
 
 - **Public discussion:** use the enabled [GitHub Discussions](https://github.com/EastForce/worker-ai-spark/discussions) for theoretical proposals, criticism, and literature leads;
 - **Versioned submission:** use a Pull Request for a mature text that is ready to be public;
-- **Email submission:** send the manuscript to the official mailbox, [worker.ai.spark@gmail.com](mailto:worker.ai.spark@gmail.com), with a subject such as “`[Theory Submission] Title`.” Email is suitable for contributors who do not use GitHub, need to confirm attribution or licensing before publication, or want a privacy check before making the text public. See the [contribution guide](CONTRIBUTING.md#四邮箱投稿) for details.
+- **Email submission:** send the manuscript to the official mailbox, [worker.ai.spark@gmail.com](mailto:worker.ai.spark@gmail.com), with a subject such as “`[Theory Submission] Title`.” Email is suitable for contributors who do not use GitHub, need to confirm attribution or licensing before publication, or want a privacy check before making the text public. See the [contribution guide](CONTRIBUTING.en.md#4-email-submissions) for details.
 
 An email submission is not public on GitHub by default, but email is neither anonymous nor end-to-end encrypted. Project maintainers can see the sender's address, and the email provider may retain metadata. Do not send identity documents, unredacted contracts, pay records, identifiable third-party material, or raw evidence that could expose someone to retaliation. For high-risk material, first send only a minimal, de-identified description. Receipt does not mean acceptance, certification, or authorization for public release. Before publication, the author must explicitly confirm the final text, the form of public attribution, and the license.
 
@@ -87,7 +94,7 @@ An email submission is not public on GitHub by default, but email is neither ano
 
 ## Review Mechanism
 
-**General feedback is open; formal review is not yet open.** See [current progress](docs/project-status.md#现在怎样参与) for participation routes and feedback handling, and [the review guide](docs/review/README.md) for formal opening conditions. General comments may be submitted through existing Issues or GitHub Discussions; they do not count as formal reviews. Please do not post contact details, identification documents, internal files, or information that could identify third parties.
+**General feedback is open; formal review is not yet open.** See [current progress](docs/project-status.en.md#how-to-participate-now) for participation routes and feedback handling, and [the review guide](docs/review/README.en.md) for formal opening conditions. General comments may be submitted through existing Issues or GitHub Discussions; they do not count as formal reviews. Please do not post contact details, identification documents, internal files, or information that could identify third parties.
 
 ---
 
@@ -109,12 +116,32 @@ To avoid misunderstanding, this project is **not**:
 
 - A completed large-scale AI model;
 - A commercial investment project;
-- An issuer of tokens, points, shares, or certificates of financial return;
+- An issuer of tokens, redeemable points, shares, or certificates of financial return; contribution values are honorary records only;
 - A promise of funding, jobs, computing resources, or economic returns;
 - A representative of any workplace, school, organization, or institution with which a participant is affiliated;
 - A source of a single conclusion on behalf of the "entire working class";
 - An advocate of hatred, violence, or harm against specific individuals;
 - A project that treats any individual, organization, model, or theory as an unquestionable authority.
+
+---
+
+## Workers' Mailbox
+
+**Workers are welcome to write to us about what they hope AI and this project could do for them.** You can also describe changes at work, difficulties you face, or where you would like AI to help. A few sentences are enough; no sign-up or supporting documents are needed.
+
+Send your letter to [worker.ai.spark@gmail.com](mailto:worker.ai.spark@gmail.com), with an optional subject such as “Worker's letter.” You may use your real name, a pseudonym, or no signature. Project maintainers can see the sender's email address.
+
+**The project will protect your privacy. Without your explicit consent, we will not publish any information relating to you, including your identity, workplace, contact details, or letter. Even if names are removed, we will ask for consent before publication.** Writing to us does not authorize publication or imply agreement with all the project's views.
+
+---
+
+## Contribution Honor Roll
+
+When volunteers do work for the project or make reasonable suggestions that are adopted, the project will record their contributions and assign a “contribution value.” Contributors choose whether to appear under their real name, a pseudonym, or anonymously. See the [contribution honor roll](CONTRIBUTORS.en.md#4-contribution-honor-roll).
+
+**Contribution values are solely for honorary recognition within the project: a record of “working for the working class.” They carry no material benefits.**
+
+If the project eventually trains a Workers' AI and has sufficient resources, it will take the AI's views and the available resources into account and decide through public discussion how to give back to contributors. There is currently no set timing, form, or amount, and no promise of financial returns.
 
 ---
 
@@ -124,6 +151,8 @@ This project particularly hopes that people who are usually only analyzed, evalu
 
 You can:
 
+- **Volunteer:** Help build the project over the long term and across its stages. Work may include connecting with workers, understanding AI's impact and workers' hopes for it, spreading the word about the project, and other tasks as needs arise. See the [sign-up details](docs/volunteers.en.md);
+- **Write to the workers' mailbox:** Share your experiences, thoughts, and hopes through the [workers' mailbox](#workers-mailbox);
 - **Submit labor scenarios:** You may provide real cases that you personally experienced, directly learned about, or have reasonable factual grounds for. You may also submit scenarios drawn from public sources, composite scenarios, or hypothetical scenarios. You may choose to use your real name, a pseudonym, be publicly anonymous (with no real name disclosed), or make the submission available only for internal handling; authorization to disclose identity and authorization to disclose the case itself are handled separately. GitHub account names are always visible, so material that should not be public may first be sent to the official mailbox. The sender's address remains visible to maintainers, however, so email does not make the submitter anonymous to the project;
 - **Review evaluation questions:** Assess whether they reflect reality and whether important issues have been omitted;
 - **Identify factual errors:** Flag incorrect citations, broken links, or questions about the applicability of laws;
@@ -133,33 +162,35 @@ You can:
 - **Test models:** Use the evaluation questions to examine the responses of existing models;
 - **Improve governance:** Help refine the mechanisms for contribution, revision, and dispute resolution;
 - **Review the basic principles:** Offer item-by-item comments based on professional research or real experience of labor;
-- **Participate through Discussions, Issues, or the official mailbox:** Knowledge of Git is not required; see [CONTRIBUTING.md](CONTRIBUTING.md).
+- **Participate through Discussions, Issues, or the official mailbox:** Knowledge of Git is not required; see [CONTRIBUTING.en.md](CONTRIBUTING.en.md).
 
 ---
 
 ## Current Roadmap
 
-See [ROADMAP.md](ROADMAP.md) for the project's staged plan. The repository foundations in Phase 0 are complete; Phase 1 accepts general public feedback, while formal review remains in preparation.
+See [ROADMAP.en.md](ROADMAP.en.md) for the project's staged plan. The repository foundations in Phase 0 are complete; Phase 1 accepts general public feedback, while formal review remains in preparation.
 
 ---
 
 ## Governance and Contributions
 
-- Governance model and role descriptions: [GOVERNANCE.md](GOVERNANCE.md)
-- Contribution guide, including ways to participate without programming: [CONTRIBUTING.md](CONTRIBUTING.md)
-- Code of conduct: [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
-- Terminology: [docs/terminology.md](docs/terminology.md)
-- Frequently asked questions: [docs/faq.md](docs/faq.md)
+- Governance model and role descriptions: [GOVERNANCE.en.md](GOVERNANCE.en.md)
+- Contribution guide, including ways to participate without programming: [CONTRIBUTING.en.md](CONTRIBUTING.en.md)
+- Volunteer sign-up: [work and application details](docs/volunteers.en.md)
+- Contribution honor roll and contribution values: [CONTRIBUTORS.en.md](CONTRIBUTORS.en.md)
+- Code of conduct: [CODE_OF_CONDUCT.en.md](CODE_OF_CONDUCT.en.md)
+- Terminology: [docs/terminology.en.md](docs/terminology.en.md)
+- Frequently asked questions: [docs/faq.en.md](docs/faq.en.md)
 - Public discussion forum: [GitHub Discussions](https://github.com/EastForce/worker-ai-spark/discussions) (enabled; suitable only for content that may be public)
 - Official submission mailbox: [worker.ai.spark@gmail.com](mailto:worker.ai.spark@gmail.com) (email is neither anonymous nor end-to-end encrypted)
 
-**Project initiator:** Initiator of the Worker AI Spark Project. During the initial release stage, the initiator's real-world workplace and full personal information will not be made public, in order to avoid unnecessarily associating the project's views with any institution with which the initiator is affiliated. When necessary for professional review, collaboration, or accountability checks, the initiator's real identity may be disclosed to trusted participants to an appropriate extent. The initiator is responsible for the project's initial content but does not claim a permanent monopoly over the interpretation of a working-class standpoint. See [GOVERNANCE.md](GOVERNANCE.md).
+**Project initiator:** Initiator of the Worker AI Spark Project. During the initial release stage, the initiator's real-world workplace and full personal information will not be made public, in order to avoid unnecessarily associating the project's views with any institution with which the initiator is affiliated. When necessary for professional review, collaboration, or accountability checks, the initiator's real identity may be disclosed to trusted participants to an appropriate extent. The initiator is responsible for the project's initial content but does not claim a permanent monopoly over the interpretation of a working-class standpoint. See [GOVERNANCE.en.md](GOVERNANCE.en.md).
 
 ---
 
 ## Disclaimer
 
-This project **does not provide formal legal advice, medical diagnoses, or investment guarantees**. Local professionals should be consulted in labor disputes and before taking high-risk action. See [DISCLAIMER.md](DISCLAIMER.md) and [SECURITY.md](SECURITY.md).
+This project **does not provide formal legal advice, medical diagnoses, or investment guarantees**. Local professionals should be consulted in labor disputes and before taking high-risk action. See [DISCLAIMER.en.md](DISCLAIMER.en.md) and [SECURITY.en.md](SECURITY.en.md).
 
 ---
 
@@ -167,11 +198,11 @@ This project **does not provide formal legal advice, medical diagnoses, or inves
 
 The project uses two licenses:
 
-- Code and scripts: Apache License 2.0 (see [LICENSE-CODE](LICENSE-CODE))
-- Documentation, theoretical papers, principles, and evaluation content: Creative Commons Attribution-ShareAlike 4.0 International (see [LICENSE-CONTENT](LICENSE-CONTENT))
-- Explanation of license scope: [LICENSE-NOTICE.md](LICENSE-NOTICE.md)
+- Code and scripts: Apache License 2.0 (see [LICENSE-CODE.en](LICENSE-CODE.en))
+- Documentation, theoretical papers, principles, and evaluation content: Creative Commons Attribution-ShareAlike 4.0 International (see [LICENSE-CONTENT.en](LICENSE-CONTENT.en))
+- Explanation of license scope: [LICENSE-NOTICE.en.md](LICENSE-NOTICE.en.md)
 
-> The project initiator has approved the adoption of these licenses. This statement does not constitute formal legal advice; the original text of [LICENSE-CODE](LICENSE-CODE) and [LICENSE-CONTENT](LICENSE-CONTENT) governs the applicable rights and obligations.
+> The project initiator has approved the adoption of these licenses. This statement does not constitute formal legal advice; the original text of [LICENSE-CODE.en](LICENSE-CODE.en) and [LICENSE-CONTENT.en](LICENSE-CONTENT.en) governs the applicable rights and obligations.
 
 ---
 

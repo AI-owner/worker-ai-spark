@@ -21,6 +21,9 @@ jobs:
       - name: Run benchmark validation
         run: python scripts/validate_benchmarks.py
 
+      - name: Validate bilingual documentation
+        run: python scripts/validate_translations.py
+
       - name: Check Markdown and JSONL source consistency
         run: python scripts/validate_benchmark_sources.py
 
@@ -28,4 +31,4 @@ jobs:
         run: python -B -m unittest discover -s scripts -p "test_*.py"
 
       - name: Confirm no external upload
-        run: echo "本工作流不向任何外部服务上传数据，也不使用需要密钥的第三方 API。"
+        run: echo "本工作流不向任何外部服务上传数据，也不使用需要密钥的第三方 API。 / This workflow does not upload data to external services or use third-party APIs that require keys."

@@ -1,0 +1,52 @@
+# Chinese version: privacy-security.yml
+name: 'English: De-identified Privacy / Security Concern'
+description: Publicly report concerns without personal information or exploitation details; use the email in SECURITY.md for sensitive content.
+title: "[Security] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        [使用中文填写](https://github.com/EastForce/worker-ai-spark/issues/new?template=privacy-security.yml)
+
+        ## Important reminders
+        - **Do not disclose full details of serious, unfixed vulnerabilities in a public Issue**;
+        - Use the security email published in SECURITY.md;
+        - This template does not require you to disclose any sensitive personal information;
+        - Do not add screenshots, photographs, logs, original files, or other attachments;
+        - If your report involves personal experiences, identity information, or materials that have not been de-identified, do not create a public Issue; use only the security email.
+  - type: dropdown
+    id: report-type
+    attributes:
+      label: Report type
+      options:
+        - Privacy exposure (names / employers / contact details, etc.)
+        - Information that identifies workers
+        - Malicious code or unsafe scripts
+        - Repository security configuration problem
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: Problem summary
+      description: Describe the nature and approximate location of the problem; **do not paste full exploitation details for an unfixed vulnerability here**.
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: Potential impact
+      description: Potential effects on workers, contributors, or the repository
+    validations:
+      required: false
+  - type: checkboxes
+    id: no-detail
+    attributes:
+      label: Confirmation
+      options:
+        - label: I have not disclosed all technical details of an unfixed vulnerability in this Issue
+          required: true
+        - label: I have not submitted any personal information, identifiable experiences, screenshots, logs, original files, or attachments
+          required: true

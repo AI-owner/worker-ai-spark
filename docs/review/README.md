@@ -1,6 +1,8 @@
 # 公开评审机制
 
-> 制度版本：v0.2-draft  
+> **English version:** [Read in English](README.en.md)
+
+> 制度版本：v0.2-draft<br>
 >
 > 当前拟评文本：[《劳动者AI基本原则》](../../PRINCIPLES.md)（文件内标注版本为 `v0.1.0`；正式评审尚未开放，轮次开始前须另行冻结 commit 和文件哈希）
 >

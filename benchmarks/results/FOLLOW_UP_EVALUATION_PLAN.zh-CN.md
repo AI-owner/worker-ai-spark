@@ -1,5 +1,7 @@
 # 后续模型测评收口计划
 
+> **English version:** [Read in English](FOLLOW_UP_EVALUATION_PLAN.en.md)
+
 > 状态：本地断点计划；不表示相关模型已经完成、失败或进入正式比较。
 >
 > 更新时间：2026-08-25

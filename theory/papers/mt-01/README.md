@@ -1,6 +1,6 @@
 # MT-01：劳动者何以成为人工智能治理主体
 
-> **English version:** [Read this page in English](README.en.md)
+> **English version:** [Read in English](README.en.md)
 
 **论文副标题：** 权利、能力、发言与救济的规范构型
 

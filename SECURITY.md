@@ -1,5 +1,7 @@
 # 安全说明（SECURITY）
 
+> **English version:** [Read in English](SECURITY.en.md)
+
 > 本文件说明项目应重点防范的安全与隐私风险，以及安全问题的报告方式。
 
 ---

@@ -1,5 +1,7 @@
 # 评测集（benchmarks）
 
+> **English version:** [Read in English](README.en.md)
+
 > 本目录存放火种计划的工人阶级立场评测题、机器可读数据与评分规则。
 
 ---

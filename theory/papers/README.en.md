@@ -39,7 +39,7 @@ The project does not require papers to follow the length, section, or subject-ma
 
 The project does not charge submission, review, or inclusion fees for theoretical contributions, and contributions need not be written by humans acting alone. Papers developed through human–AI collaboration may be submitted on equal terms, with the submitting person responsible for the content and its sources. “Inclusion” means entry into the project's public theoretical framework; it is not journal publication, formal peer review, or academic certification. See the [foundational theory overview](../README.en.md#open-theoretical-contributions) for contribution and acknowledgment principles.
 
-A complete paper may be submitted publicly through a Pull Request or sent to the official mailbox, [worker.ai.spark@gmail.com](mailto:worker.ai.spark@gmail.com), with a subject such as “`[Theory Submission] Paper Title`.” An emailed manuscript must not enter the repository until the author explicitly confirms the final text, public attribution, and license. Email is neither anonymous nor end-to-end encrypted; high-risk or third-party material should first be de-identified and reduced to a minimal description. See the [email-submission procedure](../../CONTRIBUTING.md#四邮箱投稿) (currently in Chinese) for format and handling boundaries.
+A complete paper may be submitted publicly through a Pull Request or sent to the official mailbox, [worker.ai.spark@gmail.com](mailto:worker.ai.spark@gmail.com), with a subject such as “`[Theory Submission] Paper Title`.” An emailed manuscript must not enter the repository until the author explicitly confirms the final text, public attribution, and license. Email is neither anonymous nor end-to-end encrypted; high-risk or third-party material should first be de-identified and reduced to a minimal description. See the [email-submission procedure](../../CONTRIBUTING.en.md#4-email-submissions) for format and handling boundaries.
 
 ---
 
@@ -87,6 +87,6 @@ Recommended public status labels are:
 - Copyrighted full texts should not be copied into this directory without permission;
 - The identities, affiliations, contact details, and sensitive materials of workers, authors, reviewers, and contacts must not be disclosed without separate, explicit authorization;
 - Worker participation, expert review, institutional collaboration, model results, and theoretical consensus must not be fabricated;
-- After the rights holder confirms authorization for public release and the papers are merged, they will be covered by the repository's [CC BY-SA 4.0 content license](../../LICENSE-CONTENT); the license text governs the applicable rights and obligations. Before merge, an intended license must not be presented as an authorization already completed.
+- After the rights holder confirms authorization for public release and the papers are merged, they will be covered by the repository's [CC BY-SA 4.0 content license](../../LICENSE-CONTENT.en); the license text governs the applicable rights and obligations. Before merge, an intended license must not be presented as an authorization already completed.
 
 Return to the [foundational theory overview](../README.en.md).

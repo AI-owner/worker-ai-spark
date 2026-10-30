@@ -11,7 +11,7 @@
 - **Status:** Public discussion draft
 - **Theoretical level:** General paper of the foundational theory (MT-00)
 - **Current stage:** Literature research–theory formulation
-- **License:** This repository version is intended to be released under the [CC BY-SA 4.0 content license](../../../LICENSE-CONTENT); the rights holder should confirm authorization and the form of public attribution before merge and release
+- **License:** This repository version is intended to be released under the [CC BY-SA 4.0 content license](../../../LICENSE-CONTENT.en); the rights holder should confirm authorization and the form of public attribution before merge and release
 
 ## Full Text
 
@@ -49,7 +49,7 @@ The repository version preserves the academic-paper form: Chinese and English ti
 - The conceptual boundaries among workers, unpaid caregivers, economically dependent self-employed people, unemployed people, and frontline managers require further refinement;
 - The relations among openness, participation, evaluation, and a material transfer of power must be developed in subsequent thematic papers.
 
-Literature additions, conceptual corrections, counterexamples, objections, and translation comments are welcome through [GitHub Discussions](https://github.com/EastForce/worker-ai-spark/discussions) or the official mailbox, [worker.ai.spark@gmail.com](mailto:worker.ai.spark@gmail.com), with a subject such as “`[Theory Submission][MT-00] Topic`.” See the [email-submission procedure](../../../CONTRIBUTING.md#四邮箱投稿) (currently in Chinese). Inclusion and discussion do not constitute journal publication, formal peer review, or academic certification.
+Literature additions, conceptual corrections, counterexamples, objections, and translation comments are welcome through [GitHub Discussions](https://github.com/EastForce/worker-ai-spark/discussions) or the official mailbox, [worker.ai.spark@gmail.com](mailto:worker.ai.spark@gmail.com), with a subject such as “`[Theory Submission][MT-00] Topic`.” See the [email-submission procedure](../../../CONTRIBUTING.en.md#4-email-submissions). Inclusion and discussion do not constitute journal publication, formal peer review, or academic certification.
 
 ## Suggested Citation
 

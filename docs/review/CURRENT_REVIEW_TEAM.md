@@ -1,5 +1,7 @@
 # 当前评审筹备状态（公开状态页）
 
+> **English version:** [Read in English](CURRENT_REVIEW_TEAM.en.md)
+
 > 页面状态：可公开
 >
 > 当前阶段：评审筹备，正式评审尚未开放

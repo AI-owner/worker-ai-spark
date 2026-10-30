@@ -1,7 +1,9 @@
 # 《劳动者AI基本原则》专家评审规则
 
-> 状态：公开讨论稿  
-> 版本：v0.2-draft  
+> **English version:** [Read in English](EXPERT_REVIEW_RULES.en.md)
+
+> 状态：公开讨论稿<br>
+> 版本：v0.2-draft<br>
 > 正式评审尚未开放；官方邮箱目前不接收正式评审报名或身份核验材料，请等待具体轮次公告指定渠道。参与前请同时阅读[总方案](PUBLIC_REVIEW_PLAN.md)、[提交规则](REVIEW_SUBMISSION_RULES.md)和[隐私说明](PRIVACY_NOTICE.md)。
 
 ---

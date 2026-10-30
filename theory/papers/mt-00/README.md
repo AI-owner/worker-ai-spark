@@ -1,6 +1,6 @@
 # MT-00：人工智能“以人为本”何以现实化
 
-> **English version:** [Read this page in English](README.en.md)
+> **English version:** [Read in English](README.en.md)
 
 ## 论文信息
 

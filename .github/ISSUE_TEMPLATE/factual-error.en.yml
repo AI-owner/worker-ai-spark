@@ -1,0 +1,66 @@
+# Chinese version: factual-error.yml
+name: "English: Factual Error"
+description: Report incorrect facts, citations, broken links, or issues with legal applicability.
+title: "[Factual error] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        [填写中文版](https://github.com/EastForce/worker-ai-spark/issues/new?template=factual-error.yml)
+
+        This project's evaluations are not legal advice. If you flag legal content,
+        specify the jurisdiction, as labor laws, union systems, and complaint procedures vary considerably by location.
+        This is a public Issue; do not submit personal information, details of real labor disputes, internal materials, private receipt identifiers, screenshots, or attachments.
+  - type: input
+    id: location
+    attributes:
+      label: Error location
+      description: File and section/line number
+      placeholder: PRINCIPLES.md, Part II, Article 7
+    validations:
+      required: true
+  - type: dropdown
+    id: error-type
+    attributes:
+      label: Error type
+      options:
+        - Incorrect fact
+        - Incorrect citation
+        - Broken link
+        - Legal / jurisdictional applicability issue
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: Current content
+      description: Quote the text you believe is incorrect (excerpts are acceptable)
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Proposed correction
+      description: Correct information or sources available to you
+    validations:
+      required: true
+  - type: input
+    id: jurisdiction
+    attributes:
+      label: Jurisdiction (for legal issues)
+      placeholder: 'For example: China / a specific province; or write "general"'
+    validations:
+      required: false
+  - type: checkboxes
+    id: public-confirmations
+    attributes:
+      label: Public submission confirmations
+      options:
+        - label: I have not submitted personal information, identifiable real cases, internal materials, or WAI-SUB private receipt identifiers
+          required: true
+        - label: I have not added screenshots, photographs, logs, original files, or other attachments
+          required: true
+        - label: I have the right to submit these excerpts and sources; public contributions may be used under the repository's content license
+          required: true

@@ -1,7 +1,9 @@
 # 评审参与者隐私说明
 
+> **English version:** [Read in English](PRIVACY_NOTICE.en.md)
+
 > 状态：公开讨论稿 
-> 版本：v0.2-draft  
+> 版本：v0.2-draft<br>
 
 本说明适用于《劳动者AI基本原则》的专家/劳动者参与申请、邀请、身份核验、正式评审及相关联系。普通 GitHub 公开参与还受 GitHub 平台规则和公开互联网传播特性的影响。
 

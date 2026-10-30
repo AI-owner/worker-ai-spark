@@ -1,5 +1,7 @@
 # 免责声明（DISCLAIMER）
 
+> **English version:** [Read in English](DISCLAIMER.en.md)
+
 > 请在使用本项目前阅读本声明。本项目是公开研究与讨论项目，不构成任何专业服务。
 
 ---

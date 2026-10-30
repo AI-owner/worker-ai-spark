@@ -1,5 +1,7 @@
 # Pull Request
 
+> **English version:** [Read in English](PULL_REQUEST_TEMPLATE.en.md)
+
 > 请在合并前填写以下自检。涉及核心文件（MANIFESTO / PRINCIPLES / GOVERNANCE / scoring-rubric）的实质性修改，需经讨论并由发起人或未来维护者最终审阅。
 
 ## 1. 修改了什么

@@ -1,0 +1,23 @@
+# Chinese original: CITATION.cff
+cff-version: 1.2.0
+title: "Worker AI Spark Project — Open-Source Worker AI"
+message: "If you use this project in research, please cite the following information and respect the license of each file."
+type: software
+version: 0.1.0
+license:
+  - Apache-2.0
+  - CC-BY-SA-4.0
+authors:
+  - name: "Project initiator"
+keywords:
+  - "workers"
+  - "labor"
+  - "artificial intelligence"
+  - "working-class standpoint"
+  - "open source"
+  - "AI evaluation"
+repository-code: "https://github.com/EastForce/worker-ai-spark"
+url: "https://github.com/EastForce/worker-ai-spark"
+abstract: >-
+  Worker AI Spark is an open-source project that seeks to preserve a workers' standpoint, labor knowledge, public evaluation and shared governance mechanisms for future artificial intelligence.
+  The content version currently marked in repository files is v0.1.0; the formal Git tag / Release status awaits confirmation by the project lead. Outputs primarily consist of the manifesto, basic principles, the first batch of benchmark questions and repository structure. No dedicated model has been trained, and the project does not claim that artificial intelligence has become conscious.

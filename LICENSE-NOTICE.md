@@ -1,5 +1,7 @@
 # 许可证说明（LICENSE NOTICE）
 
+> **English version:** [Read in English](LICENSE-NOTICE.en.md)
+
 > 本项目采用**双许可证**思路。该方案已获项目发起人批准采用；本说明不构成正式法律意见，具体权利义务以许可证文件原文为准。
 
 ---

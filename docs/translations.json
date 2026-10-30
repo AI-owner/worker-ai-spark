@@ -1,0 +1,480 @@
+{
+  "schema_version": 1,
+  "hash_normalization": "UTF-8 bytes with CRLF normalized to LF",
+  "pairs": [
+    {
+      "source": ".github/ISSUE_TEMPLATE/benchmark-case.yml",
+      "english": ".github/ISSUE_TEMPLATE/benchmark-case.en.yml",
+      "source_sha256": "2936b1133921f3b63b8cb4f4c2091ad7dafc93ba2d6551241d52818dd7cafccd",
+      "english_sha256": "49e33c8daa77c06fb148813e7417dc242ae95d28c6e91a49eb1fdffea3c708bb"
+    },
+    {
+      "source": ".github/ISSUE_TEMPLATE/benchmark-question.yml",
+      "english": ".github/ISSUE_TEMPLATE/benchmark-question.en.yml",
+      "source_sha256": "5219781b47337ea751f3cbadeb90b90d0d11c7b0d4b998c8c4a0e3c1a3396e71",
+      "english_sha256": "9a8736b8ddf609a8e53c3050c31df94ab8cb16390ab0fb301eab9dd016870f63"
+    },
+    {
+      "source": ".github/ISSUE_TEMPLATE/content-review.yml",
+      "english": ".github/ISSUE_TEMPLATE/content-review.en.yml",
+      "source_sha256": "9a346786616434a62a4ac57eb04b48fb5ba9c522641e8a8f2148f918782a469c",
+      "english_sha256": "bbfb2ef51e1542e720529cc46c5079d6d6101d89fabb5a226222a75cb62bc760"
+    },
+    {
+      "source": ".github/ISSUE_TEMPLATE/factual-error.yml",
+      "english": ".github/ISSUE_TEMPLATE/factual-error.en.yml",
+      "source_sha256": "e399f7e3686f37d9944e3d0a635cd42a41d11a638ace6739d0494f132fc679ce",
+      "english_sha256": "e2dbb6346dc3d27af751c5df37968ab3103672c4a8fcd500f8e272e62349d2e8"
+    },
+    {
+      "source": ".github/ISSUE_TEMPLATE/feature-request.yml",
+      "english": ".github/ISSUE_TEMPLATE/feature-request.en.yml",
+      "source_sha256": "cda113133c08b885f5aade4d9283cf1cee3336e85df7ff31afcbd7c567a52148",
+      "english_sha256": "0fa68b98d44c23d0b6b939024d1f2c51e56187fbe5fe049cf704b3921835256d"
+    },
+    {
+      "source": ".github/ISSUE_TEMPLATE/privacy-security.yml",
+      "english": ".github/ISSUE_TEMPLATE/privacy-security.en.yml",
+      "source_sha256": "109a7426ba448f902785c9cf922edd324ac21e0b3df2b7efd77be7cc18120935",
+      "english_sha256": "0556bc92642400bde2dcc29ac63ef782f6ba1c96bdee3b5cf88bdf14b4d2b274"
+    },
+    {
+      "source": ".github/PULL_REQUEST_TEMPLATE.md",
+      "english": ".github/PULL_REQUEST_TEMPLATE.en.md",
+      "source_sha256": "d9a80631c4435cff4fca575ca732a9b8b9d44697612c3aedc6d06cb709e7b705",
+      "english_sha256": "2700a71893acc5eb8b813de8b30e514649ff25a07f193b815336af166fc60fd7"
+    },
+    {
+      "source": "CHANGELOG.md",
+      "english": "CHANGELOG.en.md",
+      "source_sha256": "f9274f6076b20647f419d635cf7e087a1c4315cea0a2caaa4e627974071e4172",
+      "english_sha256": "33f32b728678bbc707c9f99f348cc7eafc2dac35a3e66b39bfa2fc2b41559dd9"
+    },
+    {
+      "source": "CITATION.cff",
+      "english": "CITATION.en.cff",
+      "source_sha256": "c65a8fcb737df2659aded23f633bf30196600965e4dbe9b1e6531ac717e9af24",
+      "english_sha256": "ecb9699bbfabe924fe8352f7782ed55fb3705639e4e069b15578255832f7cb72"
+    },
+    {
+      "source": "CODE_OF_CONDUCT.md",
+      "english": "CODE_OF_CONDUCT.en.md",
+      "source_sha256": "688ef732bda5f711262f92cf57aad5f1d8591392c686990ba45c2effb1652f16",
+      "english_sha256": "db12893a5f68ba3e73b8be3e3be22326891bd50a71dadb86c109a219a9969174"
+    },
+    {
+      "source": "CONTRIBUTING.md",
+      "english": "CONTRIBUTING.en.md",
+      "source_sha256": "fa6a25a676b9f55b4c42fc1c135f329fad31403968567bd2266c3f4f1b907b49",
+      "english_sha256": "a57686c69efc73894a8a7a82c53cf5b8a2326f52d56e611024370d97a548e763"
+    },
+    {
+      "source": "CONTRIBUTORS.md",
+      "english": "CONTRIBUTORS.en.md",
+      "source_sha256": "bdf9d93f12a7929b73d5b2f05c619687ee5ca799038dd58fc747963ebc418c41",
+      "english_sha256": "f607ade497f0671bbfbe7aafd0271d5c742ba2540733425b2b0acfbbf73504d3"
+    },
+    {
+      "source": "DISCLAIMER.md",
+      "english": "DISCLAIMER.en.md",
+      "source_sha256": "f5a53baaa02c973bdd7e58c3b717125e39c97fac3fb3434dc9e27feab0e9c0bd",
+      "english_sha256": "9d7e7516e901a59908e708f1fa51686ea3cf9f6ac3ae842f2e4612d48b45edc3"
+    },
+    {
+      "source": "GOVERNANCE.md",
+      "english": "GOVERNANCE.en.md",
+      "source_sha256": "3460ff5e39d43af7ce2641ef3cf06ca55d825ba348346a433b16d46637aa2a72",
+      "english_sha256": "796c1ad8362fa4934caf75a907fdae19fb8d3bc985f4e900e906c27b0ca699a0"
+    },
+    {
+      "source": "LICENSE-CODE",
+      "english": "LICENSE-CODE.en",
+      "source_sha256": "fd69bb4bd49ea19eba87246dab64e0ed78ada863e23b948c3f82f4e39a0b958c",
+      "english_sha256": "9d739e175b16781df429ffacda1db4b5935b628b75edd140771ac057b660da24"
+    },
+    {
+      "source": "LICENSE-CONTENT",
+      "english": "LICENSE-CONTENT.en",
+      "source_sha256": "f6771623c9cb2621ed655324f360d3867380bc40dd80c85e4b82283cdf3ec567",
+      "english_sha256": "2f45bfe0a3404f8932756cbd2e666d4bbd33ab9f4467d88aa7bb67dd8ba1e032"
+    },
+    {
+      "source": "LICENSE-NOTICE.md",
+      "english": "LICENSE-NOTICE.en.md",
+      "source_sha256": "622be6c4cc3534f9211d5e40019a6990eb041b28c702696fa1d1dc260ddc7e5e",
+      "english_sha256": "d8ebf3962e58ba6a070c35da0b2f90b727fd292b2a94fd691c1e5dd8815c746c"
+    },
+    {
+      "source": "MANIFESTO.md",
+      "english": "MANIFESTO.en.md",
+      "source_sha256": "68529b096f48d8a5dd69acc2c847c69053f91f09503f610748bf5175999205ce",
+      "english_sha256": "498848dc5887175d8d37e7c3f2d6bd8446469e2d4bd0e71f59d4edfd04dc0e32"
+    },
+    {
+      "source": "PRINCIPLES.md",
+      "english": "PRINCIPLES.en.md",
+      "source_sha256": "6783626f8553e6d2aa40b520194968a8555ddc995015d01e8b24a2ab19d69edd",
+      "english_sha256": "b8f95246ca0ba351605a353e777532fdb1cc47ddc2d6a04cfdc5f0d5e182e3ac"
+    },
+    {
+      "source": "README.md",
+      "english": "README.en.md",
+      "source_sha256": "edc0ca130a119b9897787e46dafb8e8821e9b95f744713344485fb571cf5e590",
+      "english_sha256": "57f5e98397a466e0f424ec39fb4150a8808512d23f36c2cad4a44666dd6e5e01"
+    },
+    {
+      "source": "ROADMAP.md",
+      "english": "ROADMAP.en.md",
+      "source_sha256": "6b539d2120b2b47fae33ebec18d2e874efc2b8257d86ba69b1360be96d9269c6",
+      "english_sha256": "c20b4e961e26c83b7d2b4fd0f87fb37b0a62d923426ad8e0aa8bd46bc4ffbf8d"
+    },
+    {
+      "source": "SECURITY.md",
+      "english": "SECURITY.en.md",
+      "source_sha256": "1e61a15b7d03f23a2fede1ea4499f6bf7dfff6f0bee9959576b4f84594fc7806",
+      "english_sha256": "0c29c00599042e7250505518da6d4c132688daa885ce43527ee723cf46404ac9"
+    },
+    {
+      "source": "benchmarks/README.md",
+      "english": "benchmarks/README.en.md",
+      "source_sha256": "7f437525fac615378d0497ae2d2a0ca6c939cf4d468ab432646e39f24b24e7dc",
+      "english_sha256": "9b83c86608ae4a5fbd7ea724ee0039fb03b8a90e63482d91f0a954655e16bfe5"
+    },
+    {
+      "source": "benchmarks/evaluation-protocol.md",
+      "english": "benchmarks/evaluation-protocol.en.md",
+      "source_sha256": "0a32ba9de2bce935a1ed496d19244aba6af72973adbc5db975fcc3ae083eb6e2",
+      "english_sha256": "1a68a57012d16beaccae3379097e2706fd009b3660a6a61c0a8a682239d3754a"
+    },
+    {
+      "source": "benchmarks/evaluation-record-template.md",
+      "english": "benchmarks/evaluation-record-template.en.md",
+      "source_sha256": "965834df06128c7d3906278ad91c796bc418b0db7e232f74ffb3f4fdff571df0",
+      "english_sha256": "722fa5a6fedddf3cb6aa7d2ac59bf63d0a1350951fdb7e1ecb57672e8a01f5b7"
+    },
+    {
+      "source": "benchmarks/first-batch.md",
+      "english": "benchmarks/first-batch.en.md",
+      "source_sha256": "06f4c4a86830f89ee0769d13c8b202f2b5b31f264aaffb32c5557dfceaf9da7c",
+      "english_sha256": "0aca21eff0b74bdcfe27d842373bd57b00eb2d6aca1ace7806d004bde4de57b0"
+    },
+    {
+      "source": "benchmarks/results/FOLLOW_UP_EVALUATION_PLAN.zh-CN.md",
+      "english": "benchmarks/results/FOLLOW_UP_EVALUATION_PLAN.en.md",
+      "source_sha256": "6141b2ff86a93d2e8435e81e3e2fbd1ba09f3a5442495a80259aa5fa8d9311b9",
+      "english_sha256": "95b3bc7cab3a52c02bd5cfcd84df631253658c04a5c93ec961d499507b75b0d1"
+    },
+    {
+      "source": "benchmarks/results/README.md",
+      "english": "benchmarks/results/README.en.md",
+      "source_sha256": "46b71c81c6efd6494960f2838ecb7f7edd92decb09103937a14cf20e8d5053fb",
+      "english_sha256": "d69a546725c4c7354581315a58453f36074d7d424a7262c6b333cc77435ada3a"
+    },
+    {
+      "source": "benchmarks/results/wai-20260825-deepseek-pilot/README.md",
+      "english": "benchmarks/results/wai-20260825-deepseek-pilot/README.en.md",
+      "source_sha256": "cf129fbd3c17ece71e58e449493b28d868ac762211162a3da0cba18d7a85dc03",
+      "english_sha256": "88be6ef9696a401435a2e86ca9695a5f839a343c390ed95d0b9b64b1c786f9d9"
+    },
+    {
+      "source": "benchmarks/results/wai-20260825-deepseek-pilot/evaluation-report.zh-CN.md",
+      "english": "benchmarks/results/wai-20260825-deepseek-pilot/evaluation-report.en.md",
+      "source_sha256": "84f4925e2a5cc76b364f897aeb753761b8861866ce971d5f88e9661415f87f27",
+      "english_sha256": "274e39207abd5f22a2195ab2046409e936baf32ec10399891109ee8a75d330e0"
+    },
+    {
+      "source": "benchmarks/schema.md",
+      "english": "benchmarks/schema.en.md",
+      "source_sha256": "0ae3b902d25062ad434ab4c493d7f24628bc37c612ae4a2ba2f143115dbef3c3",
+      "english_sha256": "3a02a2ebbe01b6d8f9b7aa7b0836a06475d34e92449b6d7c86f3f422db31531f"
+    },
+    {
+      "source": "benchmarks/scoring-rubric.md",
+      "english": "benchmarks/scoring-rubric.en.md",
+      "source_sha256": "ecf68ac56a72aff48b56c4db1eef58999a004042accf2f09927e6b92c7760b0e",
+      "english_sha256": "7f828c48bd114561fa6148e4c4674aa4ca5ecbfbb6881870de334497972814a4"
+    },
+    {
+      "source": "docs/contribution-records.md",
+      "english": "docs/contribution-records.en.md",
+      "source_sha256": "e5275814ef66555d0f2c15a65ec76ab222fa75d8265b062e3113ab2d11cce2bf",
+      "english_sha256": "5c4b65c6fe8643cd414b4b2cd86ea1849b88625dea38d94b27669f94077e79e2"
+    },
+    {
+      "source": "docs/decision-records/README.md",
+      "english": "docs/decision-records/README.en.md",
+      "source_sha256": "8a410bbd603048b6a7d55b73e373e8aac64aa18bb924b049a4522a6c14fe1b1a",
+      "english_sha256": "a6fc6f23fd464c7b86de09d8b642087d23565c586c78225b562fc1536f38e183"
+    },
+    {
+      "source": "docs/faq.md",
+      "english": "docs/faq.en.md",
+      "source_sha256": "5fa6ecd4fc7c2d5c577cc85adfee624df1ddf4f13ab197b3db053588a9d903c8",
+      "english_sha256": "7d44ec084b2893b43302afb9e5ccffdb8af54e72ac9206c1470a902d49588294"
+    },
+    {
+      "source": "docs/languages.md",
+      "english": "docs/languages.en.md",
+      "source_sha256": "0a462c7afa656aedd50eb0f22f159d3d81befa29de8c1748d8c6d777381aef73",
+      "english_sha256": "50d8dc35e6adab495e5a6d3fb76b6dfca4fc3a35b63fe6c66548d7e7777ca25e"
+    },
+    {
+      "source": "docs/project-overview.md",
+      "english": "docs/project-overview.en.md",
+      "source_sha256": "e5a847b3b544ce61f87d9dc55eced6b323ec0e035b4837bad2d6db88e503a32d",
+      "english_sha256": "5ac56e91040ba7e1e8f01c7f73a80b933f9ea31ac73eb6581c938569415b70af"
+    },
+    {
+      "source": "docs/project-status.md",
+      "english": "docs/project-status.en.md",
+      "source_sha256": "11024efd5df49554eab2036a5ac6135b8c339bf179f3edd4b9e5f8437e498f89",
+      "english_sha256": "6be6a36c0b3b277af81950bc84dc82c8317765123486e701d3fbc72df0f8dc09"
+    },
+    {
+      "source": "docs/review/CURRENT_REVIEW_TEAM.md",
+      "english": "docs/review/CURRENT_REVIEW_TEAM.en.md",
+      "source_sha256": "287b680ad63aab69c85fc5f28e66023195863e6f97cf66bba1bf6371d706e192",
+      "english_sha256": "01a43bf8e2c584c1496ee4a74cc5085a6bff7f8bd8d8150a3e6c94ca31f96007"
+    },
+    {
+      "source": "docs/review/DECISION_LOG.md",
+      "english": "docs/review/DECISION_LOG.en.md",
+      "source_sha256": "5e81a360207328c5f5f6fc479881f65c04a9d9838800cfc0a8de7c6257a9fad6",
+      "english_sha256": "6d598c499b719d3b75356eaa74644af09d9b703bbabc6515abda4f3590585581"
+    },
+    {
+      "source": "docs/review/EXPERT_INVITATION_TEMPLATE.md",
+      "english": "docs/review/EXPERT_INVITATION_TEMPLATE.en.md",
+      "source_sha256": "89ef7a85e67f22d8b54af2cb50f904c11df3918d0a0d41b828ac68bbe942f8eb",
+      "english_sha256": "e5c0665aeb3c873f17d783ca0c4426087ae860f2c46d908f1d77bdb49b5a3a83"
+    },
+    {
+      "source": "docs/review/EXPERT_REVIEW_APPLICATION_FORM.md",
+      "english": "docs/review/EXPERT_REVIEW_APPLICATION_FORM.en.md",
+      "source_sha256": "24e26222d7835d03d4c05f7f1c327eb2745e9cf30dadba13d34a96cf2f849250",
+      "english_sha256": "43d0db3a63f753039f3957bb4c0fe53078d1b9cc847406e08919b9605c1f0bf7"
+    },
+    {
+      "source": "docs/review/EXPERT_REVIEW_FORM.md",
+      "english": "docs/review/EXPERT_REVIEW_FORM.en.md",
+      "source_sha256": "90e73f76401a8d42253e591ee1d7c8d7b47d7363407b5f7322b388dd6ca58e8e",
+      "english_sha256": "5163586bff6d4c8e223322cb9311a957c72b1de73d3a86fb4ef45e964d97874e"
+    },
+    {
+      "source": "docs/review/EXPERT_REVIEW_RULES.md",
+      "english": "docs/review/EXPERT_REVIEW_RULES.en.md",
+      "source_sha256": "b19ae08c42d659ff1bff1dbb33aff50a1deef1fb1b9eb06bdfa99d41444e1864",
+      "english_sha256": "ac9cbd1af90cb0bbbea0a9cc8376505fd6675d40580c285277612b4c37220bb1"
+    },
+    {
+      "source": "docs/review/GOVERNANCE_AND_ROLES.md",
+      "english": "docs/review/GOVERNANCE_AND_ROLES.en.md",
+      "source_sha256": "239b491ac703df6bfb914da612837859bd64a28d5bb2d81b13845480a6bbb6cd",
+      "english_sha256": "e5f6a991008ec59f539eb4e1d0eb05f46266c2a3337d701f27b1d582b02d28e0"
+    },
+    {
+      "source": "docs/review/IDENTITY_VERIFICATION_POLICY.md",
+      "english": "docs/review/IDENTITY_VERIFICATION_POLICY.en.md",
+      "source_sha256": "88fcab14c5b2bf443321e0b1a172b7f7fb3ec6f4d00e68bf0bce45ae4f798fca",
+      "english_sha256": "fbbeb17023099e4d08597c9a81618a1e91a83ee91ef130e947b4f86ad209cd7e"
+    },
+    {
+      "source": "docs/review/PRIVACY_NOTICE.md",
+      "english": "docs/review/PRIVACY_NOTICE.en.md",
+      "source_sha256": "c0d7730e48f2d2a273ec3ec0122b4c285f141ddae373100ecf7ca363e6b2c54b",
+      "english_sha256": "8b438b889c3a9935c2ae2331a525d5fe70d1bfcffc589ede58c61a630a336d22"
+    },
+    {
+      "source": "docs/review/PUBLIC_REVIEW_PLAN.md",
+      "english": "docs/review/PUBLIC_REVIEW_PLAN.en.md",
+      "source_sha256": "219d14e3041cf5bd127450ab9e1284e538bb09e950628fefc4579a3ad3d3bd8f",
+      "english_sha256": "73788b4b57366f1b09d3f856eac1555f4e72f96d0137002a11f72242489b80ae"
+    },
+    {
+      "source": "docs/review/QUESTION_LOG.md",
+      "english": "docs/review/QUESTION_LOG.en.md",
+      "source_sha256": "d3b7276a5f3a0ec6b878552655ac97c808daf83d73cf61cbf3bb275fade60b32",
+      "english_sha256": "558056e9a2849ad5bc6355d9a7ca4d53d6f10ca823a403a03e09c152dbf3aa58"
+    },
+    {
+      "source": "docs/review/QUESTION_SUBMISSION_FORM.md",
+      "english": "docs/review/QUESTION_SUBMISSION_FORM.en.md",
+      "source_sha256": "ae3a41271f5b68431e37b3038dd1095268711cc2d455f2fe387aa4cc99d8d3a8",
+      "english_sha256": "a7d23b3ad78996cbc4092475ac1a62104ab450f4c94c6ad591fb7576b6e2d6d3"
+    },
+    {
+      "source": "docs/review/QUESTION_SUBMISSION_RULES.md",
+      "english": "docs/review/QUESTION_SUBMISSION_RULES.en.md",
+      "source_sha256": "9e0a20e92355c1d5eb52133a42d3fea24db946e0f05e141f7dd0ba6af6078c39",
+      "english_sha256": "f425c374ae829ff193ab2df49bd48dd2e53e30e2d037657eb8b47f4da96a6869"
+    },
+    {
+      "source": "docs/review/README.md",
+      "english": "docs/review/README.en.md",
+      "source_sha256": "c15c6018ae4ad570b9f6252796e41955f2eebf46fa78098942ed65cd86f84aab",
+      "english_sha256": "03770522de7cddc2264ff9bb612df6e9950d7d637003782332f9b0114b25e6fc"
+    },
+    {
+      "source": "docs/review/REVIEWER_RECRUITMENT_AND_SELECTION.md",
+      "english": "docs/review/REVIEWER_RECRUITMENT_AND_SELECTION.en.md",
+      "source_sha256": "39109cd88ac3244a3fa155841a7e0dd54d5bcf0739e5fb61cb7cb5f49e5aebe2",
+      "english_sha256": "5ccf44b752d85314f7d19d14053972e93ecf63282f568f3b8dc0f8702c533139"
+    },
+    {
+      "source": "docs/review/REVIEW_LOG.md",
+      "english": "docs/review/REVIEW_LOG.en.md",
+      "source_sha256": "cfc88061fa18938008ed3b02d483f6f8f5cc39bca89896e232d555350df71291",
+      "english_sha256": "d7eb9b8992b4e2bd715334516197a79ca722671809d0f2d97ac7b6deeb67d594"
+    },
+    {
+      "source": "docs/review/REVIEW_RESPONSE_POLICY.md",
+      "english": "docs/review/REVIEW_RESPONSE_POLICY.en.md",
+      "source_sha256": "2c5a369c4be348f0bbe3c0dce51e3d95c3a5004fac4312fe3d029bf2f852ff8e",
+      "english_sha256": "f10aa21b9ce19c375ad9d38f823c1a8fe99a20ecf160305888467d0de7a6617a"
+    },
+    {
+      "source": "docs/review/REVIEW_SUBMISSION_RULES.md",
+      "english": "docs/review/REVIEW_SUBMISSION_RULES.en.md",
+      "source_sha256": "ce2626cd21df2f2df67dba58c61870551d09596412c7e8d7bd5ac3af20ceccbe",
+      "english_sha256": "bf8b84b4e9038833c0478e3985d6378a1a724b29817e252a67585811ea1beb1d"
+    },
+    {
+      "source": "docs/review/ROUND_NOTICE_TEMPLATE.md",
+      "english": "docs/review/ROUND_NOTICE_TEMPLATE.en.md",
+      "source_sha256": "d930605d066f53530b80e165d4494a5350dc6ca3317deb004b827fc092e6e614",
+      "english_sha256": "d0079abd4553aad32144c71434cdf75740630871f4a4ba808d9f9c0c187da868"
+    },
+    {
+      "source": "docs/review/ROUND_SUMMARIES/TEMPLATE.md",
+      "english": "docs/review/ROUND_SUMMARIES/TEMPLATE.en.md",
+      "source_sha256": "f97e1d362adb0cf4eeb9c74b10477c8f93f0f2fd8806c2b1ae47ec57f7f46326",
+      "english_sha256": "b935117c65e7d8ac5ed81fe42fdca9e06b5978a99438da41bd4fe2965d687b93"
+    },
+    {
+      "source": "docs/review/ROUND_SUMMARIES/round-01.md",
+      "english": "docs/review/ROUND_SUMMARIES/round-01.en.md",
+      "source_sha256": "973f67f9540fc54b73418fb33aef3ada1650b3a23d5dc36bbc8175f976d8a7c7",
+      "english_sha256": "c00e11b22c34c57439e49d5c4c3b4971e4c721785aae95238e552b318fee576e"
+    },
+    {
+      "source": "docs/review/ROUND_SUMMARIES/round-02.md",
+      "english": "docs/review/ROUND_SUMMARIES/round-02.en.md",
+      "source_sha256": "64a794850285ee364befe2e562e5ecaa94fe1372b3d2bee6d5ee78ed58542930",
+      "english_sha256": "e3023cbacdad4778d6470dfe48b643536b6afd7791d5fffe98b4547ef9360709"
+    },
+    {
+      "source": "docs/review/ROUND_SUMMARIES/round-03.md",
+      "english": "docs/review/ROUND_SUMMARIES/round-03.en.md",
+      "source_sha256": "10e059f579d6033a6d95ccc63e717722d034de517b12eb8e3fb4fa4594648ac9",
+      "english_sha256": "93faefd9bed31e639cf570161e42d45e61ec7f0d44d76700eabf97746ae665d7"
+    },
+    {
+      "source": "docs/review/WORKER_REVIEW_APPLICATION_FORM.md",
+      "english": "docs/review/WORKER_REVIEW_APPLICATION_FORM.en.md",
+      "source_sha256": "3333982e70217c03fa5ca2e81775e9772242feb4966da5af6e67220a6c67474b",
+      "english_sha256": "af7f7751f387d0eafe64175ab34ea699a56e70e939f2540b21ec74a0d2ae7ea2"
+    },
+    {
+      "source": "docs/review/WORKER_REVIEW_FORM.md",
+      "english": "docs/review/WORKER_REVIEW_FORM.en.md",
+      "source_sha256": "35f47cdf4bfe30f1a22e4f50cba32c36ab71b83660feb82692f1d47f7af78a92",
+      "english_sha256": "9c14dce03c9bf34d504bcd08cb723efe3cab7f510fdcece0b1ac5b14651094d6"
+    },
+    {
+      "source": "docs/review/WORKER_REVIEW_RULES.md",
+      "english": "docs/review/WORKER_REVIEW_RULES.en.md",
+      "source_sha256": "8670b030a51956da63d110d9851c4810c05b7fa91270243a23a0e43d35525da8",
+      "english_sha256": "c87023c486307dd5ec44e48374c752af0228dd0c52fd03eec8a4a2ba690d4a20"
+    },
+    {
+      "source": "docs/start-here.md",
+      "english": "docs/start-here.en.md",
+      "source_sha256": "a5814603e33519053fc68607f0861fdf3fefa6ff25bf4129da42ff8cef315430",
+      "english_sha256": "5343fbaa7b0bdd857baa8ac78f590b5905d64827104c93892193ad90d1f822a5"
+    },
+    {
+      "source": "docs/terminology.md",
+      "english": "docs/terminology.en.md",
+      "source_sha256": "eb4436e0839bbe721243db4cf01e4333caff2c71f6fe5fdc6a38e1a65aad10a4",
+      "english_sha256": "79dc5c7b4013486dbab0b3b5f066b2a23522ac4f3e6ad898b2e39d0ffafe7d91"
+    },
+    {
+      "source": "docs/volunteers.md",
+      "english": "docs/volunteers.en.md",
+      "source_sha256": "3ef65c6f35a87f36d42e1a0a090c880561c352368e91b78725b6f6891b4e7294",
+      "english_sha256": "c7e83df5cacf28658f353705ea1727bc6fd9be6db4e2735e6818c6419fdeb8ce"
+    },
+    {
+      "source": "knowledge-base/README.md",
+      "english": "knowledge-base/README.en.md",
+      "source_sha256": "9933735e6a9c78a2f0826d2ace21acc29c73005272b760c36dc8dcf7accefa2e",
+      "english_sha256": "a869b28a62270bb2a607561a42e0086c80e8b78c6cb4ad075bcd61d997dcae27"
+    },
+    {
+      "source": "model-evaluations/README.md",
+      "english": "model-evaluations/README.en.md",
+      "source_sha256": "c7ef30495ab47da79d0599c65de05851e7c5a7e902e10fa1f57fd3712195593e",
+      "english_sha256": "0390da8c79865b0984424e41c7bbd78a506d9bee789ceb607ade44fa5ef8ac5d"
+    },
+    {
+      "source": "research/README.md",
+      "english": "research/README.en.md",
+      "source_sha256": "575b678d29cd6c44179bf22d57edbe027cc59199fd3d9e15a9a21444c1cc0fea",
+      "english_sha256": "5749147c16911e4a4cbe8058e0a5e0fb9eeae1f9eff980c89d6ee8af64d32b91"
+    },
+    {
+      "source": "scripts/README.md",
+      "english": "scripts/README.en.md",
+      "source_sha256": "becbca91eacfa6cc5f8f6950b62092735845a92714b22c4d701d360fd48300b2",
+      "english_sha256": "7e56bddfa25eed23b394111ea3063aa7fd1ff4248d961b4818f487aede9afa1c"
+    },
+    {
+      "source": "scripts/model_evaluation_report.md",
+      "english": "scripts/model_evaluation_report.en.md",
+      "source_sha256": "e965c1fc4efc3d7a7ce36c71aa4fe610e721a3c1472a13a0a2b1e4c1900c3e66",
+      "english_sha256": "7bb908605782b3d9a20354b895eaf91d7355aa5f8f4f8f725c528af4a77129d5"
+    },
+    {
+      "source": "scripts/model_evaluation_scoring_pipeline.md",
+      "english": "scripts/model_evaluation_scoring_pipeline.en.md",
+      "source_sha256": "6ef19fb744648476089b440e3b454c15df7de3a04c8a6fafdbd15de5ad4f0b05",
+      "english_sha256": "5e621884ceb4ce44730524d6f8c22da6f9c82d5e4342e7ab1719856252ad9071"
+    },
+    {
+      "source": "theory/README.md",
+      "english": "theory/README.en.md",
+      "source_sha256": "4dae575a6f0fda83297dc29e144f50fd6b40a54f8c3ed501796d838359a9f76c",
+      "english_sha256": "92cfce3bbd172d1757e735bfdbf2a3b24c492ed3c4d2fcf19e7f678381f9f6a1"
+    },
+    {
+      "source": "theory/papers/README.md",
+      "english": "theory/papers/README.en.md",
+      "source_sha256": "750c983ec1df0175bada4ed1525cf91678a321442c7fd1e82a4a55b4ea1b96a0",
+      "english_sha256": "353c2af9d90810ea32528e0a11b00f9d91d5ae4359e21e833f36be0e720a5bc0"
+    },
+    {
+      "source": "theory/papers/mt-00/README.md",
+      "english": "theory/papers/mt-00/README.en.md",
+      "source_sha256": "98240c8841291b74a4f9e61a1b860a5e79f08514fe783dd0987e88f9ba04330d",
+      "english_sha256": "f71e43e3ac21cc15edd99bff80fb7677bc0cc65027f627963da4acd481ad2769"
+    },
+    {
+      "source": "theory/papers/mt-00/paper.zh-CN.md",
+      "english": "theory/papers/mt-00/paper.en.md",
+      "source_sha256": "821d995407fb4c570862003d1bfcf84237ea4debc01e545a0fd64525cbddd39e",
+      "english_sha256": "e54aff96024b5895951286cb2378ebacacdfb1b4f3f5f42bd75cd90e0b4a78dd"
+    },
+    {
+      "source": "theory/papers/mt-01/README.md",
+      "english": "theory/papers/mt-01/README.en.md",
+      "source_sha256": "b094979829f3908464626c0e9f0cae7b88b1f16e89d42a9c7a657a8dbeb87ba3",
+      "english_sha256": "befebeed880ac10c39cb9b3cba7b423026d89447b26124569db9aa2edcb0b2e8"
+    },
+    {
+      "source": "theory/papers/mt-01/paper.zh-CN.md",
+      "english": "theory/papers/mt-01/paper.en.md",
+      "source_sha256": "2a8e26c866913e4e7a53776f2cf7e041b765eb8b84e96c9ed48120e644fcf050",
+      "english_sha256": "e104e3a8fb16119d637e24a59502d3d41e4b88caa097ef03c3e8be8cbfdc7401"
+    }
+  ]
+}

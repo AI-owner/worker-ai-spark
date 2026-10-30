@@ -1,5 +1,7 @@
 # 治理说明（GOVERNANCE）
 
+> **English version:** [Read in English](GOVERNANCE.en.md)
+
 > 本文档说明火种计划在初创阶段与长期方向的治理设想。它是**草案**，不声称已经存在一个正式委员会或完善制度。
 
 ---

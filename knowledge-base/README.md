@@ -1,5 +1,7 @@
 # 劳动知识库（knowledge-base）
 
+> **English version:** [Read in English](README.en.md)
+
 > 本目录为**预留目录**。知识库尚未开始系统建设。
 
 ---

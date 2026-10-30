@@ -1,4 +1,4 @@
-# 本配置文件控制 Issue 模板行为。
-# 关闭空白 Issue，避免参与者绕过公开性、隐私和许可提醒。
-# 安全问题使用 SECURITY.md 公布的渠道。
+# 本配置文件控制 Issue 模板行为。 / This configuration controls issue template behavior.
+# 关闭空白 Issue，避免参与者绕过公开性、隐私和许可提醒。 / Disable blank issues so participants cannot bypass public-visibility, privacy and licensing reminders.
+# 安全问题使用 SECURITY.md 公布的渠道。 / Use the channels published in SECURITY.md for security issues.
 blank_issues_enabled: false

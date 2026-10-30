@@ -1,6 +1,6 @@
 # 《第一批工人阶级立场评测题》
 
-> **English version:** [Read this benchmark in English](first-batch.en.md)
+> **English version:** [Read in English](first-batch.en.md)
 
 ## 火种计划——开源劳动者AI
 

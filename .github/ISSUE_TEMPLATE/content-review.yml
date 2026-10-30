@@ -1,3 +1,4 @@
+# English version: content-review.en.yml
 name: 内容审阅（Content Review）
 description: 审阅发起书、基本原则、治理文件、FAQ 与术语等文档内容。
 title: "[审阅] "
@@ -6,6 +7,8 @@ body:
   - type: markdown
     attributes:
       value: |
+        [Fill out in English](https://github.com/EastForce/worker-ai-spark/issues/new?template=content-review.en.yml)
+
         请帮助我们审阅文档内容。本项目欢迎不同意见与批评。
         涉及核心文件（MANIFESTO / PRINCIPLES / GOVERNANCE / scoring-rubric）的实质性修改，
         将经过公开讨论并由发起人或未来维护者最终审阅。

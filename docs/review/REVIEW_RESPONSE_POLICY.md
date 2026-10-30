@@ -1,7 +1,9 @@
 # 评审反馈与意见处理规则
 
-> 状态：公开讨论稿  
-> 版本：v0.2-draft  
+> **English version:** [Read in English](REVIEW_RESPONSE_POLICY.en.md)
+
+> 状态：公开讨论稿<br>
+> 版本：v0.2-draft<br>
 > 本规则规定如何登记、判断、反馈、公开和复核意见，不承诺所有普通公开评论都获得长篇个别回复。
 
 ---

@@ -12,7 +12,7 @@
 | Public status | Public discussion draft |
 | Author identifier | Project Initiator |
 | Research stage | Literature-to-foundational-theory formation |
-| Content license | This repository version is intended to use [CC BY-SA 4.0](../../../LICENSE-CONTENT); the rights holder should confirm authorization and public attribution before merge and release |
+| Content license | This repository version is intended to use [CC BY-SA 4.0](../../../LICENSE-CONTENT.en); the rights holder should confirm authorization and public attribution before merge and release |
 
 ## Read the Paper
 
@@ -52,7 +52,7 @@ The repository version is based on the existing Word paper. It retains the origi
 - The four functions have not become a measurement instrument tested for content validity, inter-rater agreement, or cross-group equivalence, and they have not been validated through project practice.
 - Even full realization of all four functions may leave structural domination through ownership, benefit distribution, working time, and collective power intact.
 
-Literature additions, conceptual corrections, counterexamples, objections, and translation comments are welcome through [GitHub Discussions](https://github.com/EastForce/worker-ai-spark/discussions) or the official mailbox, [worker.ai.spark@gmail.com](mailto:worker.ai.spark@gmail.com), with a subject such as “`[Theory Submission][MT-01] Topic`.” See the [email-submission procedure](../../../CONTRIBUTING.md#四邮箱投稿) (currently in Chinese). Inclusion and discussion do not constitute journal publication, formal peer review, or academic certification.
+Literature additions, conceptual corrections, counterexamples, objections, and translation comments are welcome through [GitHub Discussions](https://github.com/EastForce/worker-ai-spark/discussions) or the official mailbox, [worker.ai.spark@gmail.com](mailto:worker.ai.spark@gmail.com), with a subject such as “`[Theory Submission][MT-01] Topic`.” See the [email-submission procedure](../../../CONTRIBUTING.en.md#4-email-submissions). Inclusion and discussion do not constitute journal publication, formal peer review, or academic certification.
 
 ## Suggested Citation
 

@@ -1,6 +1,6 @@
 # 核心论文
 
-> **English version:** [Read this page in English](README.en.md)
+> **English version:** [Read in English](README.en.md)
 
 本目录用于保存火种计划母理论体系的公开核心论文。论文将在达到公开讨论稿的基本要求后逐篇纳入；尚未完成或尚未通过公开前检查的草稿，不会因为列入研究设想而被描述为项目已经形成的理论成果。
 

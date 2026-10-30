@@ -1,5 +1,7 @@
 # 脚本（scripts）
 
+> **English version:** [Read in English](README.en.md)
+
 > 本目录存放项目使用的脚本。当前仅依赖 Python 标准库，不引入第三方包。
 
 > 下列命令均从仓库根目录运行。
@@ -159,4 +161,12 @@ python scripts/build_model_evaluation_report.py \
 
 ```bash
 python -X utf8 -B scripts/test_build_model_evaluation_report.py -v
+```
+
+## 中英文文档检查
+
+运行以下命令检查中英文文档覆盖、语言切换、本地链接与版本同步；维护方式见 [文档语言说明](../docs/languages.md)。
+
+```bash
+python scripts/validate_translations.py
 ```

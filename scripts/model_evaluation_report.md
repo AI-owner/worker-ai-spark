@@ -1,5 +1,7 @@
 # 模型评测中文 Markdown 报告生成器
 
+> **English version:** [Read in English](model_evaluation_report.en.md)
+
 `build_model_evaluation_report.py` 把一个或多个本地模型运行、评分 JSONL 或评分汇总 JSON 整理成 answer-first 的中文技术报告。脚本完全离线：不读取密钥文件、不访问网络，也不执行模型调用。
 
 ## 输入与运行

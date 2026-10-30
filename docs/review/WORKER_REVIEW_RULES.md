@@ -1,7 +1,9 @@
 # 《劳动者AI基本原则》劳动者评审规则
 
-> 状态：公开讨论稿  
-> 版本：v0.2-draft  
+> **English version:** [Read in English](WORKER_REVIEW_RULES.en.md)
+
+> 状态：公开讨论稿<br>
+> 版本：v0.2-draft<br>
 > 正式评审尚未开放。参与不要求会编程、会使用 GitHub、拥有正式学历或熟悉理论术语。
 
 ---

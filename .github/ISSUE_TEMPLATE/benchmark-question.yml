@@ -1,3 +1,4 @@
+# English version: benchmark-question.en.yml
 name: 完整候选评测题（Benchmark Question）
 description: 按完整字段提交可进入审阅与试测流程的劳动者立场评测题。
 title: "[候选评测题] "
@@ -6,6 +7,8 @@ body:
   - type: markdown
     attributes:
       value: |
+        [English form](https://github.com/EastForce/worker-ai-spark/issues/new?template=benchmark-question.en.yml)
+
         ## 提交前提醒
         - 本表公开，可以选择不另署名、化名或主动公开本人真实姓名；
         - 可以提交本人亲历、直接了解或有合理事实依据的真实案例；

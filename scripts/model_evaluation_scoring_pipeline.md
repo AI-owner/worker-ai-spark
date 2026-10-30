@@ -1,5 +1,7 @@
 # 模型评测初评分管线（本地待审）
 
+> **English version:** [Read in English](model_evaluation_scoring_pipeline.en.md)
+
 > 状态：本地试运行说明，结果须由项目负责人确认。该管线遵守
 > [`benchmarks/evaluation-protocol.md`](../benchmarks/evaluation-protocol.md) 与
 > [`benchmarks/scoring-rubric.md`](../benchmarks/scoring-rubric.md)。

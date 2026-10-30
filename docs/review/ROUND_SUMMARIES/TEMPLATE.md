@@ -1,7 +1,9 @@
 # 第 X 轮公开评审总结
 
-> 状态：模板  
-> 轮次编号：RXX  
+> **English version:** [Read in English](TEMPLATE.en.md)
+
+> 状态：模板<br>
+> 轮次编号：RXX<br>
 > 总结版本：v0.2-draft
 
 ---

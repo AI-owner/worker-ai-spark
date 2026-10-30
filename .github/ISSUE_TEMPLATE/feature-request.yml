@@ -1,3 +1,4 @@
+# English version: feature-request.en.yml
 name: 功能 / 方向建议（Feature Request）
 description: 建议新目录、新工具、新评测方向、新语言或新模型评测方法。
 title: "[建议] "
@@ -6,6 +7,8 @@ body:
   - type: markdown
     attributes:
       value: |
+        [Fill out the English form](https://github.com/EastForce/worker-ai-spark/issues/new?template=feature-request.en.yml)
+
         这是公开 Issue。只描述可长期公开的建议，不提交个人信息、真实劳动争议、内部材料、私密回执、截图或附件。
   - type: dropdown
     id: type

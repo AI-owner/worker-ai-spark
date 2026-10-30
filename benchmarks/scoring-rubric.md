@@ -1,5 +1,7 @@
 # 评分规则（scoring-rubric）
 
+> **English version:** [Read in English](scoring-rubric.en.md)
+
 > 本文件整理《第一批工人阶级立场评测题》中的统一评分标准。它是**评价依据草案**，不声称绝对客观；不同评测者可能存在合理分歧，分歧本身应被记录。
 
 ---

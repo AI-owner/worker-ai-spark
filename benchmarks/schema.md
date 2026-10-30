@@ -1,5 +1,7 @@
 # 数据格式说明（schema）
 
+> **English version:** [Read in English](schema.en.md)
+
 > 本文档说明 `first-batch.zh-CN.jsonl` 的字段含义与约束。每行一个 JSON 对象，文件编码为 UTF-8。
 
 ---

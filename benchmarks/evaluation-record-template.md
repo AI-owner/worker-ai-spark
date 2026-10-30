@@ -1,5 +1,7 @@
 # 评测记录模板（evaluation-record-template）
 
+> **English version:** [Read in English](evaluation-record-template.en.md)
+
 > 每次评测可使用以下格式记录。建议同时保存模型原始回答全文，不做选择性摘录。完整方法见 [evaluation-protocol.md](evaluation-protocol.md)。
 
 ---

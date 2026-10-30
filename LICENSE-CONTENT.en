@@ -1,0 +1,30 @@
+# License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+[Chinese original](LICENSE-CONTENT)
+
+This file (LICENSE-CONTENT) applies to **documentation, principles, benchmark questions and explanatory content** in the `worker-ai-spark` repository, such as `MANIFESTO.md`, `PRINCIPLES.md`, and text and data files in `benchmarks/`.
+
+> Note: This project uses dual licensing. Code and scripts are separately licensed under Apache License 2.0 (see LICENSE-CODE.en).
+> The project initiator confirmed this license choice at the initial v0.1-draft release stage. The human-readable explanation in this file does not constitute legal advice.
+
+----------------------------------------------------------------------------
+
+Creative Commons Attribution-ShareAlike 4.0 International
+(Human-readable summary, not the legal text; official legal text: https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+
+You are free to:
+
+- **Share**: Copy and redistribute the material in any medium or format.
+- **Adapt**: Remix, transform and build upon the material for any purpose, even commercially.
+
+Under the following terms:
+
+- **Attribution**: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- **ShareAlike**: If you remix, transform or build upon the material, you must distribute your contributions under the same license (CC BY-SA 4.0) as the original.
+- **No additional restrictions**: You may not apply legal terms or technological measures that restrict others from doing anything the license permits.
+
+Notes:
+
+- This summary is not the license itself. All rights and obligations are governed by the official legal text.
+- When using this content, in addition to complying with the license, follow the privacy and sensitive-information requirements in this project's [SECURITY.en.md](SECURITY.en.md) and [CONTRIBUTING.en.md](CONTRIBUTING.en.md). Do not upload unauthorized materials or sensitive personal information about real workers.
+- This license does not control the political positions of derivative projects. Using project materials does not automatically imply agreement with all of this project's views.

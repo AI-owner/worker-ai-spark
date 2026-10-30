@@ -1,5 +1,7 @@
 # 术语解释（terminology）
 
+> **English version:** [Read in English](terminology.en.md)
+
 > 本文件解释项目中反复出现的关键概念。定义力求清楚、克制，**不把有争议的概念描述成唯一答案**，并可能在后续公开讨论中修订。
 
 ---

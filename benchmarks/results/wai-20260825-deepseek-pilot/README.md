@@ -1,5 +1,7 @@
 # DeepSeek 24 题 pilot 待审包
 
+> **English version:** [Read in English](README.en.md)
+
 > 状态：已完成机器运行与两路 AI 盲评，待项目负责人确认；不是正式排名或人工评审结论。
 
 ## 先看结论
@@ -9,7 +11,7 @@
 - 三个模型的回答等权 AI 总分中位数均为 16/20；这不足以支持硬性排序。
 - 当前有 3 条待人工复核的风险信号、28 个出现评分分歧的回答、0 条人工评分，因此不满足正式比较门槛。
 
-完整覆盖、五维中位数、风险与分歧清单见 [evaluation-report.zh-CN.md](evaluation-report.zh-CN.md)。
+完整覆盖、五维中位数、风险与分歧清单见 [中文原报告](evaluation-report.zh-CN.md) · [English translation](evaluation-report.en.md)。
 
 ## 运行边界
 

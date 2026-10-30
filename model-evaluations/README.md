@@ -1,5 +1,7 @@
 # 模型评测结果（model-evaluations）
 
+> **English version:** [Read in English](README.en.md)
+
 > 本目录为**预留目录**。用于存放使用第一批评测题对现有模型进行评测的结果与报告。
 
 本目录存放基于一个或多个运行批次的叙述报告和跨模型分析；可复现的原始提示、完整回答、元数据和逐题评分放在 [../benchmarks/results/](../benchmarks/results/)。运行规则见 [../benchmarks/evaluation-protocol.md](../benchmarks/evaluation-protocol.md)。

@@ -1,7 +1,9 @@
 # 劳动者立场评测题提交与收录规则
 
-> 状态：公开讨论稿  
-> 版本：v0.2-draft  
+> **English version:** [Read in English](QUESTION_SUBMISSION_RULES.en.md)
+
+> 状态：公开讨论稿<br>
+> 版本：v0.2-draft<br>
 > 本规则管理候选题共建。现有数据格式见 [benchmarks/schema.md](../../benchmarks/schema.md)，模型回答评分见 [benchmarks/scoring-rubric.md](../../benchmarks/scoring-rubric.md)。
 
 **渠道边界：**劳动者可以提交本人亲历、直接了解或有合理事实依据的真实案例，并选择实名、化名、匿名或仅供内部处理。公开 GitHub 表单还可接收公开来源、多个公开案例综合或纯假设场景。可识别第三人的亲眼所见或转述、内部材料、未公开证据以及正在争议或可能导致报复的识别线索不得公开提交。不得把完整私密投稿表复制到 GitHub。

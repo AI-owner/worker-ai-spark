@@ -1,5 +1,7 @@
 # 项目概览（project-overview）
 
+> **English version:** [Read in English](project-overview.en.md)
+
 > 本文档为研究者、开发者和审阅者提供项目结构速览。普通读者可从 [三道题入门](start-here.md) 开始；成果与参与状态见 [当前进展](project-status.md)。
 
 ---

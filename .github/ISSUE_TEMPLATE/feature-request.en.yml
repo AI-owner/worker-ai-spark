@@ -1,0 +1,57 @@
+# Chinese version: feature-request.yml
+name: "English: Feature Request"
+description: Suggest new directories, tools, evaluation directions, languages, or model evaluation methods.
+title: "[Suggestion] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        [填写中文版](https://github.com/EastForce/worker-ai-spark/issues/new?template=feature-request.yml)
+
+        This is a public Issue. Describe only suggestions that can remain public long-term; do not submit personal information, real labor disputes, internal materials, private receipt identifiers, screenshots, or attachments.
+  - type: dropdown
+    id: type
+    attributes:
+      label: Suggestion type
+      options:
+        - New directory / repository structure
+        - New tool / script
+        - New evaluation direction
+        - New language version
+        - New model evaluation method
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+      description: What specifically would you like to add?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it is needed
+      description: What problem would it solve, and which participants would benefit?
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope and constraints
+      description: Does it involve sensitive information, require professional review, or fit within the initial launch stage?
+    validations:
+      required: false
+  - type: checkboxes
+    id: public-confirmations
+    attributes:
+      label: Public submission confirmations
+      options:
+        - label: I have not submitted personal information, identifiable real cases, internal materials, or WAI-SUB private receipt identifiers
+          required: true
+        - label: I have not added screenshots, photographs, logs, original files, or other attachments
+          required: true
+        - label: I have the right to submit this suggestion; public contributions may be used under the repository's content license
+          required: true

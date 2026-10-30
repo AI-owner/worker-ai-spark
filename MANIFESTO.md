@@ -1,6 +1,6 @@
 # 火种计划——开源劳动者AI
 
-> **English version:** [Read this document in English](MANIFESTO.en.md)
+> **English version:** [Read in English](MANIFESTO.en.md)
 
 ## 工人阶级立场AI火种计划发起书
 

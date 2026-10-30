@@ -1,5 +1,7 @@
 # 评测结果（results）
 
+> **English version:** [Read in English](README.en.md)
+
 > 本目录用于存放使用评测题产生的可复现原始运行包、完整回答和逐题评分。每个运行包可同时附带本批次技术报告；跨批次叙述性报告仍可放在 `../../model-evaluations/`。
 
 ---

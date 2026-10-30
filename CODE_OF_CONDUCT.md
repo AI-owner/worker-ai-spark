@@ -1,5 +1,7 @@
 # 行为准则（CODE OF CONDUCT）
 
+> **English version:** [Read in English](CODE_OF_CONDUCT.en.md)
+
 > 本准则适用于本仓库及相关的公开讨论空间。项目希望形成可以批评、可以修正、彼此尊重的公共讨论氛围。
 
 ---

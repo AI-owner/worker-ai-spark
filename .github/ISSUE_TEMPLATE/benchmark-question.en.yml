@@ -1,0 +1,146 @@
+# Chinese version: benchmark-question.yml
+name: 'English: Complete Candidate Benchmark Question'
+description: Submit a worker-standpoint benchmark question with all required fields for review and trial evaluation.
+title: '[Candidate benchmark question] '
+labels:
+- enhancement
+body:
+- type: markdown
+  attributes:
+    value: '[中文填写入口](https://github.com/EastForce/worker-ai-spark/issues/new?template=benchmark-question.yml)
+
+
+      ## Before submitting
+
+      - This form is public. You may choose no additional name, a pseudonym, or voluntary disclosure of your real
+      name;
+
+      - You may submit real cases based on firsthand experience, direct knowledge or a reasonable factual basis;
+
+      - Without separate authorization, do not submit organization names, contact details, internal materials, original
+      evidence or information identifying third parties;
+
+      - If you only wish to provide a simple labor scenario, use the “Submit a Labor Scenario” template;
+
+      - Submission does not automatically result in inclusion in the official question bank.
+
+      '
+- type: input
+  id: principle
+  attributes:
+    label: Corresponding principle and version
+    placeholder: Article 9 / PRINCIPLES.md v0.1.0
+  validations:
+    required: true
+- type: input
+  id: group
+  attributes:
+    label: Applicable industry, type of work or group
+    description: Use broad categories; do not name real organizations.
+  validations:
+    required: true
+- type: dropdown
+  id: source-type
+  attributes:
+    label: Source of background
+    options:
+    - Firsthand experience
+    - Direct knowledge or reasonable factual basis
+    - Adapted from public sources
+    - Synthesis of multiple public cases, not traceable to a specific individual
+    - Entirely hypothetical scenario
+  validations:
+    required: true
+- type: textarea
+  id: background
+  attributes:
+    label: Real case, public-source, composite or hypothetical background
+    description: Distinguish firsthand experience, direct knowledge, secondhand accounts, public sources and speculation;
+      do not identify third parties without authorization.
+  validations:
+    required: true
+- type: dropdown
+  id: public-attribution
+  attributes:
+    label: Public identity choice for this submission
+    description: Your GitHub account is always visible; this choice does not authorize disclosure of your organization,
+      contact details or original materials.
+    options:
+    - Display only my GitHub account, with no additional name in the body
+    - Use a pseudonym that I will enter in the body
+    - I voluntarily choose to disclose my real name, which I will enter in the body
+  validations:
+    required: true
+- type: textarea
+  id: conflict
+  attributes:
+    label: Core conflict of interests
+    description: Who holds information and decision-making power, who benefits, and who bears the costs and risks?
+  validations:
+    required: true
+- type: textarea
+  id: question
+  attributes:
+    label: Question to ask the AI
+  validations:
+    required: true
+- type: textarea
+  id: minimum
+  attributes:
+    label: Minimum requirements for an acceptable answer
+  validations:
+    required: true
+- type: textarea
+  id: excellent
+  attributes:
+    label: What an excellent answer should include
+  validations:
+    required: true
+- type: textarea
+  id: failure
+  attributes:
+    label: Clearly unacceptable responses and major risk signals
+  validations:
+    required: true
+- type: textarea
+  id: controversy
+  attributes:
+    label: Controversies, regional differences and other reasonable answers
+  validations:
+    required: true
+- type: textarea
+  id: sources
+  attributes:
+    label: Public supporting sources
+    description: Provide the title, organization, date, link, applicable region and access date; do not upload restricted
+      full texts.
+  validations:
+    required: false
+- type: textarea
+  id: relevant-relationships
+  attributes:
+    label: Factual relationships relevant to this question
+    description: Write “No known relevant relationships”, or use broad categories suitable for public disclosure
+      to state whether you participated in drafting the relevant principles/scoring rules, or have management, ownership,
+      employment, contractual, co-authorship or direct-benefit relationships with relevant companies, model providers,
+      funders or decision-makers.
+    placeholder: No known relevant relationships
+  validations:
+    required: true
+- type: checkboxes
+  id: confirmations
+  attributes:
+    label: Privacy and licensing confirmations
+    options:
+    - label: Unless I have voluntarily selected real-name disclosure under “Public identity choice”, the body contains
+        no real names; it contains no unauthorized organization names, contact details, internal materials or information
+        identifying third parties
+      required: true
+    - label: I have distinguished firsthand experience, direct knowledge, secondhand accounts, public sources and
+        speculation, and have not presented unverified content as confirmed facts
+      required: true
+    - label: I have not added attachments, screenshots, photographs, recordings or original files
+      required: true
+    - label: I have the right to submit this content and agree to its publication under the repository content license,
+        CC BY-SA 4.0
+      required: true

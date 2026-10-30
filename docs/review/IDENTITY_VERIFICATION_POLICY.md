@@ -1,7 +1,9 @@
 # 评审参与者身份核验规则
 
-> 状态：公开讨论稿  
-> 版本：v0.2-draft  
+> **English version:** [Read in English](IDENTITY_VERIFICATION_POLICY.en.md)
+
+> 状态：公开讨论稿<br>
+> 版本：v0.2-draft<br>
 > 核验只用于确认参与类别、联系和去重，不用于判断观点是否正确。
 
 ---

@@ -1,7 +1,9 @@
 # 评审意见提交规则
 
-> 状态：公开讨论稿  
-> 版本：v0.2-draft  
+> **English version:** [Read in English](REVIEW_SUBMISSION_RULES.en.md)
+
+> 状态：公开讨论稿<br>
+> 版本：v0.2-draft<br>
 > 适用于专家评审、劳动者评审和普通公开意见。评测题另见 [QUESTION_SUBMISSION_RULES.md](QUESTION_SUBMISSION_RULES.md)。
 
 ---

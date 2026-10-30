@@ -1,5 +1,7 @@
 # 人工智能“以人为本”何以现实化
 
+> **English version:** [Read in English](paper.en.md)
+
 ## ——劳动关系中的目标—后果错位与劳动者立场
 
 **作者：项目发起人**

@@ -1,5 +1,7 @@
 # How Can Workers Become Subjects of Artificial Intelligence Governance?
 
+> **Chinese version:** [阅读中文版](paper.zh-CN.md)
+
 ## The Normative Configuration of Rights, Capabilities, Voice, and Remedy
 
 **Author:** Project Initiator[^version]

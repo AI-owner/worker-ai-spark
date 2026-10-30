@@ -1,6 +1,8 @@
 # 专家评审邀请模板
 
-> 模板版本：v0.2-draft  
+> **English version:** [Read in English](EXPERT_INVITATION_TEMPLATE.en.md)
+
+> 模板版本：v0.2-draft<br>
 > 发送前须经项目负责人逐名确认，不得自动批量发送。
 
 主题：邀请参与《劳动者AI基本原则》第 X 轮评审
@@ -26,6 +28,6 @@
 
 如愿意了解下一步，请通过【正式非公开申请渠道】回复；在该渠道正式公布前，请不要发送证件、单位内部材料、合同、工资信息或第三人信息。
 
-感谢您考虑参与。  
-Worker AI Spark 发起人  
+感谢您考虑参与。<br>
+Worker AI Spark 发起人<br>
 代表项目维护方

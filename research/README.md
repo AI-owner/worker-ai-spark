@@ -1,5 +1,7 @@
 # 研究与文献索引（research）
 
+> **English version:** [Read in English](README.en.md)
+
 > 本目录为**预留目录**。用于整理与项目相关的公开研究、文献与讨论线索。
 
 ---

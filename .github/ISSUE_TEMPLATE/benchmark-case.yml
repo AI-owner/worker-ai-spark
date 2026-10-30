@@ -1,3 +1,4 @@
+# English version: benchmark-case.en.yml
 name: 提交劳动情境（Benchmark Case）
 description: 提交新的劳动情境，用于扩充或改进评测题。
 title: "[评测案例] "
@@ -6,6 +7,8 @@ body:
   - type: markdown
     attributes:
       value: |
+        [English form](https://github.com/EastForce/worker-ai-spark/issues/new?template=benchmark-case.en.yml)
+
         ## 提交前提醒（务必阅读）
         本模板用于低门槛提交“劳动情境线索”。如要提交完整候选题，请使用“完整候选评测题”模板。
         - 可以提交本人亲历、直接了解或有合理事实依据的真实案例；

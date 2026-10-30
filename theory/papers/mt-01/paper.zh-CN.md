@@ -1,5 +1,7 @@
 # 劳动者何以成为人工智能治理主体
 
+> **English version:** [Read in English](paper.en.md)
+
 ## ——权利、能力、发言与救济的规范构型
 
 **作者：** 项目发起人[^version]

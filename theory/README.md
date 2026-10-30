@@ -1,6 +1,6 @@
 # 母理论与核心论文
 
-> **English version:** [Read this page in English](README.en.md)
+> **English version:** [Read in English](README.en.md)
 
 本目录是火种计划公开理论工作的入口，用于说明母理论的研究性质、形成路径、公开边界及其与核心论文的关系。内部讨论、未获授权的身份信息、受限制的原始材料和未准备公开的草稿不应进入本目录。
 
