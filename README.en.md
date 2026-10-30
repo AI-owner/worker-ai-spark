@@ -1,5 +1,10 @@
 # Worker AI Spark Project — Open-Source Workers' AI
 
+> **📣 Volunteers wanted: help build the Worker AI Spark Project over the long term**<br>
+> Take part at every stage: connect with workers, understand AI's impact and their hopes for it, spread the word, and help with future work.<br>
+> Email [worker.ai.spark@gmail.com](mailto:worker.ai.spark@gmail.com) with a brief introduction and the time you can offer each month.<br>
+> [Volunteer details (in Chinese)](docs/volunteers.md) · [Workers' mailbox](#workers-mailbox) · [Contribution honor roll](CONTRIBUTORS.md#四贡献榜单)
+
 > **Chinese version:** [阅读中文版](README.md)
 
 > The Worker AI Spark Project is an open-source initiative grounded in theoretical research from workers' standpoints. It seeks to preserve workers' standpoints and knowledge of labor while developing open evaluation methods and mechanisms for shared governance in the development of future artificial intelligence.
@@ -109,12 +114,32 @@ To avoid misunderstanding, this project is **not**:
 
 - A completed large-scale AI model;
 - A commercial investment project;
-- An issuer of tokens, points, shares, or certificates of financial return;
+- An issuer of tokens, redeemable points, shares, or certificates of financial return; contribution values are honorary records only;
 - A promise of funding, jobs, computing resources, or economic returns;
 - A representative of any workplace, school, organization, or institution with which a participant is affiliated;
 - A source of a single conclusion on behalf of the "entire working class";
 - An advocate of hatred, violence, or harm against specific individuals;
 - A project that treats any individual, organization, model, or theory as an unquestionable authority.
+
+---
+
+## Workers' Mailbox
+
+**Workers are welcome to write to us about what they hope AI and this project could do for them.** You can also describe changes at work, difficulties you face, or where you would like AI to help. A few sentences are enough; no sign-up or supporting documents are needed.
+
+Send your letter to [worker.ai.spark@gmail.com](mailto:worker.ai.spark@gmail.com), with an optional subject such as “Worker's letter.” You may use your real name, a pseudonym, or no signature. Project maintainers can see the sender's email address.
+
+**The project will protect your privacy. Without your explicit consent, we will not publish any information relating to you, including your identity, workplace, contact details, or letter. Even if names are removed, we will ask for consent before publication.** Writing to us does not authorize publication or imply agreement with all the project's views.
+
+---
+
+## Contribution Honor Roll
+
+When volunteers do work for the project or make reasonable suggestions that are adopted, the project will record their contributions and assign a “contribution value.” Contributors choose whether to appear under their real name, a pseudonym, or anonymously. See the [contribution honor roll](CONTRIBUTORS.md#四贡献榜单) (in Chinese).
+
+**Contribution values are solely for honorary recognition within the project: a record of “working for the working class.” They carry no material benefits.**
+
+If the project eventually trains a Workers' AI and has sufficient resources, it will take the AI's views and the available resources into account and decide through public discussion how to give back to contributors. There is currently no set timing, form, or amount, and no promise of financial returns.
 
 ---
 
@@ -124,6 +149,8 @@ This project particularly hopes that people who are usually only analyzed, evalu
 
 You can:
 
+- **Volunteer:** Help build the project over the long term and across its stages. Work may include connecting with workers, understanding AI's impact and workers' hopes for it, spreading the word about the project, and other tasks as needs arise. See the [sign-up details](docs/volunteers.md) (in Chinese);
+- **Write to the workers' mailbox:** Share your experiences, thoughts, and hopes through the [workers' mailbox](#workers-mailbox);
 - **Submit labor scenarios:** You may provide real cases that you personally experienced, directly learned about, or have reasonable factual grounds for. You may also submit scenarios drawn from public sources, composite scenarios, or hypothetical scenarios. You may choose to use your real name, a pseudonym, be publicly anonymous (with no real name disclosed), or make the submission available only for internal handling; authorization to disclose identity and authorization to disclose the case itself are handled separately. GitHub account names are always visible, so material that should not be public may first be sent to the official mailbox. The sender's address remains visible to maintainers, however, so email does not make the submitter anonymous to the project;
 - **Review evaluation questions:** Assess whether they reflect reality and whether important issues have been omitted;
 - **Identify factual errors:** Flag incorrect citations, broken links, or questions about the applicability of laws;
@@ -147,6 +174,8 @@ See [ROADMAP.md](ROADMAP.md) for the project's staged plan. The repository found
 
 - Governance model and role descriptions: [GOVERNANCE.md](GOVERNANCE.md)
 - Contribution guide, including ways to participate without programming: [CONTRIBUTING.md](CONTRIBUTING.md)
+- Volunteer sign-up: [work and application details](docs/volunteers.md) (in Chinese)
+- Contribution honor roll and contribution values: [CONTRIBUTORS.md](CONTRIBUTORS.md) (in Chinese)
 - Code of conduct: [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
 - Terminology: [docs/terminology.md](docs/terminology.md)
 - Frequently asked questions: [docs/faq.md](docs/faq.md)
